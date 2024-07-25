@@ -1,0 +1,14 @@
+[
+    {
+        "display_name": "ETF",
+        "allowance": 3,
+        "current": 0,
+        "community": "ethtrader_test"
+    },
+    {
+        "display_name": "TEST",
+        "allowance": 3,
+        "current": 17,
+        "community": "ethtrader_test"
+    }
+]
