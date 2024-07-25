@@ -1,0 +1,14 @@
+[
+        {
+            "community": "ethtrader_test",
+            "topic": ["etf\\b", "exchange[-\\s]*traded[-\\s]*fund"],
+            "display_name": "ETF",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "topic": ["test\\b"],
+            "display_name": "TEST",
+            "allowance": 3
+        }
+    ]
