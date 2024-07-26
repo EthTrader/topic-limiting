@@ -97,7 +97,7 @@
         },
         {
             "community": "ethtrader_test",
-            "patterns": ["potus", "congress", "joint committee", "legislative", "legislature", "senate", "veto", "politics", "bilateral", "caucus", "constitution"],
+            "patterns": ["potus", "congress", "joint committee", "legislative", "legislature", "senate", "veto", "politic", "bilateral", "caucus", "constitution"],
             "display_name": "Politics",
             "allowance": 3
         },
