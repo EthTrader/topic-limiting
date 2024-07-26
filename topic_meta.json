@@ -1,13 +1,13 @@
 [
         {
             "community": "ethtrader_test",
-            "topic": ["\\b+etf\\b+", "\\b+exchange[-\\s]*traded[-\\s]*fund"],
+            "topic": ["\\betf\\b", "exchange[\\s-]+traded\\s+fund"],
             "display_name": "ETF",
             "allowance": 3
         },
         {
             "community": "ethtrader_test",
-            "topic": ["\\b+test\\b+"],
+            "topic": ["\\btest\\b"],
             "display_name": "TEST",
             "allowance": 3
         }
