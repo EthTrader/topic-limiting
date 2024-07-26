@@ -43,7 +43,7 @@
         },
         {
             "community": "ethtrader_test",
-            "patterns": ["coinbase", "cbeth", "binance", "okx", "bybit", "upbit", "kraken", "gate\\.io", "htx", "bitfinex", "kucoin", "mexc", "bitget", "crypto\\.com", "\\cdc\\b", "bingx", "bitstamp", "bitmart", "gemini", "ftx", "mt\\s*gox", "blockfi", "celsius"],
+            "patterns": ["coinbase", "cbeth", "binance", "okx", "bybit", "upbit", "kraken", "gate\\.io", "htx", "bitfinex", "kucoin", "mexc", "bitget", "crypto\\.com", "\\bcdc\\b", "bingx", "bitstamp", "bitmart", "gemini", "ftx", "mt\\s*gox", "blockfi", "celsius"],
             "display_name": "Exchanges",
             "limit": 3
         },
