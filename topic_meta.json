@@ -19,7 +19,7 @@
         },
         {
             "community": "ethtrader_test",
-            "topic": ["\\bchainlink\\b", "link"],
+            "topic": ["\\bchainlink\\b", "\\blink\\b"],
             "display_name": "Chainlink",
             "allowance": 3
         },
