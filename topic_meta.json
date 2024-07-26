@@ -37,20 +37,14 @@
         },
         {
             "community": "ethtrader_test",
-            "patterns": ["tether[\\.to]*", "\\busdt\\b", "\\bxaut\\b", "\\beurt\\b", "\\bcnht\\b", "\\bmxnt\\b"],
-            "display_name": "Tether",
+            "patterns": ["stable\\s*coin", "tether[\\.to]*", "\\busdt\\b", "\\bxaut\\b", "\\beurt\\b", "\\bcnht\\b", "\\bmxnt\\b", "\\bcircle\\b", "\\busdc\\b", "x*dai\\b", "pyusd", "usde", "usdd", "trueusd", "tusd", "usdb", "usdc\\.e", "usdp", "fdusd", "frax", "paxg", "pax gold", "alusd"],
+            "display_name": "Stables",
             "allowance": 3
         },
         {
             "community": "ethtrader_test",
-            "patterns": ["\\bcircle\\b", "\\busdc\\b"],
-            "display_name": "USDC",
-            "allowance": 3
-        },
-        {
-            "community": "ethtrader_test",
-            "patterns": ["\\barmstrong\\b", "coinbase", "cbeth"],
-            "display_name": "Coinbase",
+            "patterns": ["coinbase", "cbeth", "binance", "okx", "bybit", "upbit", "kraken", "gate\\.io", "htx", "bitfinex", "kucoin", "mexc", "bitget", "crypto\\.com", "\\cdc\\b", "bingx", "bitstamp", "bitmart", "gemini", "ftx", "mt\\s*gox", "blockfi", "celsius"],
+            "display_name": "Exchanges",
             "allowance": 3
         },
         {
@@ -76,13 +70,7 @@
             "patterns": ["meta\\s*mask", "\\bledger\\b", "\\btrezor\\b", "\\bellipal\\b", "\\btangem\\b", "\\bguarda\\b", "\\bzengo\\b", "trust\\s*wallet"],
             "display_name": "Wallets",
             "allowance": 3
-        },
-        {
-            "community": "ethtrader_test",
-            "patterns": ["crypto\\.com", "\\cdc\\b"],
-            "display_name": "Crypto.com",
-            "allowance": 3
-        },
+        }
         {
             "community": "ethtrader_test",
             "patterns": ["restak[e]*[ing]*", "ether[\\.]*fi", "ethfi", "w*eeth", "renzo", "ezeth", "kelp", "w*rseth", "swell", "r*sweth", "eigen[layer]*", "lrts*"],
@@ -111,6 +99,18 @@
             "community": "ethtrader_test",
             "patterns": ["potus", "congress", "joint committee", "legislative", "legislature", "senate", "veto", "politics", "bilateral", "caucus", "constitution"],
             "display_name": "Politics",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "patterns": ["elon", "musk", "saylor", "antonopoulos", "pompliano", "\\bcz\\b", "changpeng", "buterin", "vitalik", "hoskinson", "brian armstrong", "jack dorsey", "\\bsbf\\b", "bankman", "gavin wood", "cathie wood", "winklevoss" ],
+            "display_name": "Influencers",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "patterns": ["air\\s+drop", "farming", "drop[\\s\\w,.-]+claim", "claim[\\s\\w,.-]+drop" ],
+            "display_name": "Airdrops",
             "allowance": 3
         }
     ]
