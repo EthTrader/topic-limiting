@@ -55,16 +55,10 @@
         },
         {
             "community": "ethtrader_test",
-            "patterns": ["\\blido\\b", "w*steth", "\\bldo\\b"],
-            "display_name": "Lido",
+            "patterns": ["\\blido\\b", "w*steth", "\\bldo\\b", "\\brpl\\b", "rocket\\s*pool", "\\breth\\b", "stakewise", "tenderize", "ankr", "frax"],
+            "display_name": "Staking",
             "allowance": 3
         },
-        {
-            "community": "ethtrader_test",
-            "patterns": ["\\brpl\\b", "rocket\\s*pool", "\\breth\\b"],
-            "display_name": "Rocket Pool",
-            "allowance": 3
-        }
         {
             "community": "ethtrader_test",
             "patterns": ["\\bwbtc\\b", "wrapped\\s+btc", "wrapped\\s+bitcoin"],
