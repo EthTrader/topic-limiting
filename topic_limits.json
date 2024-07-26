@@ -1,14 +1,116 @@
 [
     {
         "display_name": "ETF",
-        "allowance": 3,
+        "limit": 3,
         "current": 0,
         "community": "ethtrader_test"
     },
     {
-        "display_name": "TEST",
-        "allowance": 3,
-        "current": 17,
+        "display_name": "Test",
+        "limit": 3,
+        "current": 15,
+        "community": "ethtrader_test"
+    },
+    {
+        "display_name": "SEC",
+        "limit": 3,
+        "current": 0,
+        "community": "ethtrader_test"
+    },
+    {
+        "display_name": "Chainlink",
+        "limit": 3,
+        "current": 2,
+        "community": "ethtrader_test"
+    },
+    {
+        "display_name": "Polygon",
+        "limit": 3,
+        "current": 0,
+        "community": "ethtrader_test"
+    },
+    {
+        "display_name": "Uniswap",
+        "limit": 3,
+        "current": 0,
+        "community": "ethtrader_test"
+    },
+    {
+        "display_name": "Stables",
+        "limit": 3,
+        "current": 0,
+        "community": "ethtrader_test"
+    },
+    {
+        "display_name": "Exchanges",
+        "limit": 3,
+        "current": 0,
+        "community": "ethtrader_test"
+    },
+    {
+        "display_name": "Staking/Restaking",
+        "limit": 3,
+        "current": 0,
+        "community": "ethtrader_test"
+    },
+    {
+        "display_name": "WBTC",
+        "limit": 3,
+        "current": 0,
+        "community": "ethtrader_test"
+    },
+    {
+        "display_name": "SHIB",
+        "limit": 3,
+        "current": 0,
+        "community": "ethtrader_test"
+    },
+    {
+        "display_name": "Wallets",
+        "limit": 3,
+        "current": 0,
+        "community": "ethtrader_test"
+    },
+    {
+        "display_name": "Meme Coins",
+        "limit": 3,
+        "current": 0,
+        "community": "ethtrader_test"
+    },
+    {
+        "display_name": "Layer 2's",
+        "limit": 3,
+        "current": 2,
+        "community": "ethtrader_test"
+    },
+    {
+        "display_name": "Bridges",
+        "limit": 3,
+        "current": 0,
+        "community": "ethtrader_test"
+    },
+    {
+        "display_name": "Politics",
+        "limit": 3,
+        "current": 0,
+        "community": "ethtrader_test"
+    },
+    {
+        "display_name": "Influencers",
+        "limit": 3,
+        "current": 1,
+        "community": "ethtrader_test"
+    },
+    {
+        "display_name": "Airdrops",
+        "limit": 3,
+        "current": 0,
+        "community": "ethtrader_test"
+    },
+    {
+        "display_name": "Regulation",
+        "limit": 3,
+        "current": 0,
         "community": "ethtrader_test"
     }
 ]
