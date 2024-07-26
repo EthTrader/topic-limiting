@@ -1,38 +1,122 @@
 [
         {
             "community": "ethtrader_test",
-            "topic": ["\\betf\\b", "exchange[\\s-]+traded\\s+fund"],
+            "patterns": ["\\betf\\b", "exchange[\\s-]+traded\\s+fund"],
             "display_name": "ETF",
             "allowance": 3
         },
         {
             "community": "ethtrader_test",
-            "topic": ["\\btest\\b"],
+            "patterns": ["\\btest\\b"],
             "display_name": "Test",
             "allowance": 3
         },
         {
             "community": "ethtrader_test",
-            "topic": ["\\bsec\\b", "securit[y]*[ies]*\\s*[and]*\\s*exchange\\scommission", "\\bsec\\.gov\\b", "\\bgensler\\b"],
+            "patterns": ["\\bsec\\b", "securit[y]*[ies]*\\s*[and]*\\s*exchange\\scommission", "\\bsec\\.gov\\b", "\\bgensler\\b"],
             "display_name": "SEC",
             "allowance": 3
         },
         {
             "community": "ethtrader_test",
-            "topic": ["\\bchainlink\\b", "\\blink\\b"],
+            "patterns": ["\\bchainlink\\b", "\\blink\\b"],
             "display_name": "Chainlink",
             "allowance": 3
         },
         {
             "community": "ethtrader_test",
-            "topic": ["\\bpolygon\\b", "\\bmatic\\b", "\\bpol\\b", "\\bzkevm\\b" ],
+            "patterns": ["\\bpolygon\\b", "\\bmatic\\b", "\\bpol\\b", "\\bzkevm\\b" ],
             "display_name": "Polygon",
             "allowance": 3
         },
         {
             "community": "ethtrader_test",
-            "topic": ["\\buni\\b", "uniswap[\\.org]*"],
+            "patterns": ["\\buni\\b", "uniswap[\\.org]*"],
             "display_name": "Uniswap",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "patterns": ["tether[\\.to]*", "\\busdt\\b", "\\bxaut\\b", "\\beurt\\b", "\\bcnht\\b", "\\bmxnt\\b"],
+            "display_name": "Tether",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "patterns": ["\\bcircle\\b", "\\busdc\\b"],
+            "display_name": "USDC",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "patterns": ["\\barmstrong\\b", "coinbase", "cbeth"],
+            "display_name": "Coinbase",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "patterns": ["\\blido\\b", "w*steth", "\\bldo\\b"],
+            "display_name": "Lido",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "patterns": ["\\brpl\\b", "rocket\\s*pool", "\\breth\\b"],
+            "display_name": "Rocket Pool",
+            "allowance": 3
+        }
+        {
+            "community": "ethtrader_test",
+            "patterns": ["\\bwbtc\\b", "wrapped\\s+btc", "wrapped\\s+bitcoin"],
+            "display_name": "WBTC",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "patterns": ["shib[a]*\\b", "shiba\\s*inu"],
+            "display_name": "SHIB",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "patterns": ["meta\\s*mask", "\\bledger\\b", "\\btrezor\\b", "\\bellipal\\b", "\\btangem\\b", "\\bguarda\\b", "\\bzengo\\b", "trust\\s*wallet"],
+            "display_name": "Wallets",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "patterns": ["crypto\\.com", "\\cdc\\b"],
+            "display_name": "Crypto.com",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "patterns": ["restak[e]*[ing]*", "ether[\\.]*fi", "ethfi", "w*eeth", "renzo", "ezeth", "kelp", "w*rseth", "swell", "r*sweth", "eigen[layer]*", "lrts*"],
+            "display_name": "Restaking",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "patterns": ["pepe", "floki", "brett", "turbo", "meme", "\\bmog\\b"],
+            "display_name": "Meme Coins",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "patterns": ["\\barb\\b", "arbitrum", "optimism", "\\bop\\b", "mantle", "starknet", "strk", "zksync", "manta", "venom", "base", "coti", "blast", "scroll", "linea", "zklink", "mode", "metis", "taiko", "dydx", "bob", "loopring", "kroma", "xai" ],
+            "display_name": "Layer 2's",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "patterns": ["wormhole", "layerzero", "li\\.*fi", "jumper", "bridge", "gravity", "hyperlane", "superbridge", "starkgate", "connext", "stargate", "synapse", "matcha", "hop", "axelar", "router", "debridge", "mayan", "squid", "owlto", "orbiter", "interport", "rubic", "polyhedra", "symbiosis", "xy finance"],
+            "display_name": "Bridges",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "patterns": ["potus", "congress", "joint committee", "legislative", "legislature", "senate", "veto", "politics", "bilateral", "caucus", "constitution"],
+            "display_name": "Politics",
             "allowance": 3
         }
     ]
