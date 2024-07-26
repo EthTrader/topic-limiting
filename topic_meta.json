@@ -1,7 +1,7 @@
 [
         {
             "community": "ethtrader_test",
-            "patterns": ["\\betf\\b", "exchange[\\s-]+traded\\s+fund", "blackrock", "invesco", "21shares", "fidelity", "franklin", "vaneck", "bitwise", "grayscale"],
+            "patterns": ["\\betfs*\\b", "exchange[\\s-]+traded\\s+fund", "blackrock", "invesco", "21shares", "fidelity", "franklin", "vaneck", "bitwise", "grayscale"],
             "display_name": "ETF",
             "allowance": 3
         },
