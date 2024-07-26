@@ -97,7 +97,7 @@
         },
         {
             "community": "ethtrader_test",
-            "patterns": ["elon", "musk", "saylor", "antonopoulos", "pompliano", "\\bcz\\b", "changpeng", "buterin", "vitalik", "hoskinson", "brian armstrong", "jack dorsey", "\\bsbf\\b", "bankman", "gavin wood", "cathie wood", "winklevoss" ],
+            "patterns": ["justin sun", "elon", "musk", "saylor", "antonopoulos", "pompliano", "\\bcz\\b", "changpeng", "buterin", "vitalik", "hoskinson", "brian armstrong", "jack dorsey", "\\bsbf\\b", "bankman", "gavin wood", "cathie wood", "winklevoss" ],
             "display_name": "Influencers",
             "limit": 3
         },
