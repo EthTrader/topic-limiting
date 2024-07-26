@@ -8,7 +8,13 @@
         {
             "community": "ethtrader_test",
             "topic": ["\\btest\\b"],
-            "display_name": "TEST",
+            "display_name": "Test",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "topic": ["\\bsec\\b", "Securities and Exchange Commission", "sec.\\gov", "\\bgensler\\b"],
+            "display_name": "SEC",
             "allowance": 3
         }
     ]
