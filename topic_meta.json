@@ -16,5 +16,23 @@
             "topic": ["\\bsec\\b", "Securities and Exchange Commission", "sec.\\gov", "\\bgensler\\b"],
             "display_name": "SEC",
             "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "topic": ["\\bchainlink\\b", "link"],
+            "display_name": "Chainlink",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "topic": ["\\bpolygon\\b", "\\bmatic\\b", "\\bpol\\b", "\\bzkevm\\b" ],
+            "display_name": "Polygon",
+            "allowance": 3
+        },
+        {
+            "community": "ethtrader_test",
+            "topic": ["\\buni\\b", "uniswap[\\.org]*"],
+            "display_name": "Uniswap",
+            "allowance": 3
         }
     ]
