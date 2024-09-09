@@ -13,7 +13,7 @@
         },
         {
             "community": "ethtrader_test",
-            "patterns": ["\\bsec\\b", "securit[y]*[ies]*\\s*[and]*\\s*exchange\\scommission", "sec\\.gov", "\\bgensler\\b"],
+            "patterns": ["[sS]\\.*[eE]\\.*[cC]\\.*\\b", "securit[y]*[ies]*\\s*[and]*\\s*exchange\\scommission", "sec\\.gov", "\\bgensler\\b"],
             "display_name": "SEC",
             "limit": 3
         },
