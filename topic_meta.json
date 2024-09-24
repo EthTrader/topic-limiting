@@ -5,7 +5,7 @@
             "display_name": "ETF",
             "limit": 2,
             "overrides": {
-                "include": [],
+                "include": ["6zhqag"],
                 "ignore": []
             }
         },
@@ -16,7 +16,7 @@
             "limit": 2,
             "overrides": {
                 "include": [],
-                "ignore": []
+                "ignore": ["t3_1fj0ab5"]
             }
         },
         {
