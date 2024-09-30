@@ -11,48 +11,8 @@
         },
         {
             "community": "ethtrader_test",
-            "patterns": ["\\btest\\b"],
-            "display_name": "Test",
-            "limit": 2,
-            "overrides": {
-                "include": [],
-                "ignore": []
-            }
-        },
-        {
-            "community": "ethtrader_test",
             "patterns": ["[sS]\\.*[eE]\\.*[cC]\\.*\\b", "securit[y]*[ies]*\\s*[and]*\\s*exchange\\scommission", "sec\\.gov", "\\bgensler\\b"],
             "display_name": "SEC",
-            "limit": 2,
-            "overrides": {
-                "include": [],
-                "ignore": []
-            }
-        },
-        {
-            "community": "ethtrader_test",
-            "patterns": ["\\bchainlink\\b", "\\blink\\b"],
-            "display_name": "Chainlink",
-            "limit": 2,
-            "overrides": {
-                "include": [],
-                "ignore": []
-            }
-        },
-        {
-            "community": "ethtrader_test",
-            "patterns": ["\\bpolygon\\b", "\\bmatic\\b", "\\bpol\\b", "\\bzkevm\\b" ],
-            "display_name": "Polygon",
-            "limit": 2,
-            "overrides": {
-                "include": [],
-                "ignore": []
-            }
-        },
-        {
-            "community": "ethtrader_test",
-            "patterns": ["\\buni\\b", "uniswap"],
-            "display_name": "Uniswap",
             "limit": 2,
             "overrides": {
                 "include": [],
@@ -71,7 +31,7 @@
         },
         {
             "community": "ethtrader_test",
-            "patterns": ["coinbase", "cbeth", "binance", "okx", "bybit", "upbit", "kraken", "gate\\.*\\s*io", "htx", "bitfinex", "kucoin", "mexc", "bitget", "crypto\\.com", "\\bcdc\\b", "bingx", "bitstamp", "bitmart", "gemini", "ftx", "mt\\.*\\s*gox", "blockfi", "celsius"],
+            "patterns": ["coinbase", "cbeth", "binance", "okx", "bybit", "upbit", "kraken", "gate\\.*\\s*io", "htx", "bitfinex", "kucoin", "mexc", "bitget", "crypto\\.com", "\\bcdc\\b", "bingx", "bitstamp", "bitmart", "gemini", "ftx", "mt\\.*\\s*gox", "blockfi", "celsius", "\\buni\\b", "uniswap", "pancake"],
             "display_name": "Exchanges",
             "limit": 2,
             "overrides": {
@@ -91,37 +51,17 @@
         },
         {
             "community": "ethtrader_test",
-            "patterns": ["\\bwbtc\\b", "wrapped\\s+btc", "wrapped\\s+bitcoin"],
-            "display_name": "WBTC",
-            "limit": 2,
-            "overrides": {
-                "include": [],
-                "ignore": []
-            }
-        },
-        {
-            "community": "ethtrader_test",
-            "patterns": ["shiba*\\b", "shiba\\s*inu"],
-            "display_name": "SHIB",
-            "limit": 2,
-            "overrides": {
-                "include": [],
-                "ignore": []
-            }
-        },
-        {
-            "community": "ethtrader_test",
-            "patterns": ["meta\\s*mask", "\\bledger\\b", "\\btrezor\\b", "\\bellipal\\b", "\\btangem\\b", "\\bguarda\\b", "\\bzengo\\b", "trust\\s*wallet"],
+            "patterns": ["meta\\s*mask", "\\bledger\\b", "\\btrezor\\b", "\\bellipal\\b", "\\btangem\\b", "\\bguarda\\b", "\\bzengo\\b", "trust\\s*wallet", "exodus", "electrum", "atomic"],
             "display_name": "Wallets",
             "limit": 2,
             "overrides": {
                 "include": [],
                 "ignore": []
-            }
+            }, 
         },
         {
             "community": "ethtrader_test",
-            "patterns": ["pepe", "floki", "brett", "turbo", "((meme)|(shit))\\s*coins*", "\\bmog\\b"],
+            "patterns": ["pepe", "floki", "brett", "turbo", "((meme)|(shit))\\s*coins*", "\\bmog\\b", "shiba*\\b", "shiba\\s*inu", "\\bmaga\\b"],
             "display_name": "Meme Coins",
             "limit": 2,
             "overrides": {
@@ -141,7 +81,7 @@
         },
         {
             "community": "ethtrader_test",
-            "patterns": ["\\barb\\b", "arbitrum", "optimism", "\\bop\\b", "starknet", "strk", "zksync", "manta", "venom", "base", "coti", "blast", "scroll", "linea", "zklink", "mode", "metis", "taiko", "dydx", "bob", "loopring", "kroma", "xai", "evm", "mantle", "mntl", "canto", "klaytn", "moonbeam", "zora", "evmos", "bnb", "cronos", "gnosis" ],
+            "patterns": ["\\barb\\b", "arbitrum", "optimism", "\\bop\\b", "starknet", "strk", "zksync", "manta", "venom", "base", "coti", "blast", "scroll", "linea", "zklink", "mode", "metis", "taiko", "dydx", "bob", "loopring", "kroma", "xai", "evm", "mantle", "mntl", "canto", "klaytn", "moonbeam", "zora", "evmos", "bnb", "cronos", "gnosis", "polygon", "\\bmatic\\b", "\\bpol\\b", "zkevm" ],
             "display_name": "Side Chains/Layer 2's",
             "limit": 2,
             "overrides": {
@@ -161,7 +101,7 @@
         },
         {
             "community": "ethtrader_test",
-            "patterns": ["potus", "congress", "joint committee", "legislative", "legislature", "senate", "veto", "politic", "bilateral", "caucus", "constitution"],
+            "patterns": ["potus", "congress", "joint\\s*committee", "legislative", "legislature", "senate", "veto", "politic", "bilateral", "caucus", "constitution", "biden", "kamala", "pelosi", "trump", "barack", "obama", "clinton", "warren", "ted\\s*cruz", "bernie\\s*sanders", "president", "mayor", "governer", "legislator", "ambassador", "judge", "senator", "representative"],
             "display_name": "Politics",
             "limit": 2,
             "overrides": {
@@ -171,7 +111,7 @@
         },
         {
             "community": "ethtrader_test",
-            "patterns": ["justin sun", "elon", "musk", "saylor", "antonopoulos", "pompliano", "\\bcz\\b", "changpeng", "buterin", "vitalik", "hoskinson", "brian armstrong", "jack dorsey", "\\bsbf\\b", "bankman", "gavin wood", "cathie wood", "winklevoss" ],
+            "patterns": ["justin sun", "elon", "musk", "saylor", "antonopoulos", "pompliano", "\\bcz\\b", "changpeng", "buterin", "vitalik", "hoskinson", "brian\\s*armstrong", "jack\\s*dorsey", "\\bsbf\\b", "bankman", "gavin\\s*wood", "cathie\\s*wood", "winklevoss" ],
             "display_name": "Influencers",
             "limit": 2,
             "overrides": {
@@ -191,8 +131,18 @@
         },
         {
             "community": "ethtrader_test",
-            "patterns": ["rules*\\b", "laws*\\b", "policy", "policies", "guidelines*", "standards*", "compliance", "legislation", "restrictions*" ],
+            "patterns": ["rules*\\b", "laws*\\b", "policy", "policies", "guidelines*", "standards*", "compliance", "legislation", "restrictions*", "regulation", "enforcement", "regulatory", "compliance", "mandate", "directive", "framework", "license", "prohibition", "audit" ],
             "display_name": "Regulation",
+            "limit": 2,
+            "overrides": {
+                "include": [],
+                "ignore": []
+            }
+        },
+        {
+            "community": "ethtrader_test",
+            "patterns": ["gdp", "inflation", "employment", "monetary", "economic", "growth", "interest", "deficit", "national\\s*debt", "recession", "central\\s*bank", "cramer", "krugman", "yellen", "powell" ],
+            "display_name": "Macroeconomics",
             "limit": 2,
             "overrides": {
                 "include": [],
