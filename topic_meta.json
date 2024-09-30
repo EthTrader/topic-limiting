@@ -1,11 +1,21 @@
 [
         {
             "community": "ethtrader_test",
+            "patterns": ["EthTrader"],
+            "display_name": "donut", "ethtrader",
+            "limit": 5,
+            "overrides": {
+                "include": [],
+                "ignore": []
+            }
+        },
+        {
+            "community": "ethtrader_test",
             "patterns": ["\\betfs*\\b", "exchange[\\s-]+traded\\s+fund", "blackrock", "invesco", "21shares", "fidelity", "franklin", "vaneck", "bitwise", "grayscale"],
             "display_name": "ETF",
             "limit": 2,
             "overrides": {
-                "include": ["6zhqag", "t3_1fj0ab5"],
+                "include": [],
                 "ignore": []
             }
         },
@@ -144,6 +154,16 @@
             "patterns": ["gdp", "inflation", "employment", "monetary", "economic", "growth", "interest", "deficit", "national\\s*debt", "recession", "central\\s*bank", "cramer", "krugman", "yellen", "powell" ],
             "display_name": "Macroeconomics",
             "limit": 2,
+            "overrides": {
+                "include": [],
+                "ignore": []
+            }
+        },
+        {
+            "community": "ethtrader_test",
+            "patterns": ["\\bpump\\b", "\\bdip\\b", "\\bsurge\\b", "\\bdump\\b", "\\bspike\\b", "\\bplunge\\b", "\\brally\\b", "\\bmoon\\b", "\\bcrash\\b", "\\bath\\b", "price\\s*movement", "\\bta\\b", "technical\\s+analysis", "\\btrading\\b", "\\bcharts?\\b"],
+            "display_name": "ETH Trading",
+            "limit": 5,
             "overrides": {
                 "include": [],
                 "ignore": []
