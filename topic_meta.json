@@ -1,8 +1,8 @@
 [
         {
             "community": "ethtrader_test",
-            "patterns": ["EthTrader"],
-            "display_name": "donut", "ethtrader",
+            "patterns": ["donut", "ethtrader"],
+            "display_name": "EthTrader",
             "limit": 5,
             "overrides": {
                 "include": [],
