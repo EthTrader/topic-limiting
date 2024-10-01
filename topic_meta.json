@@ -77,7 +77,7 @@
             "overrides": {
                 "include": [],
                 "ignore": []
-            }, 
+            }
         },
         {
             "community": "ethtrader_test",
