@@ -31,6 +31,16 @@
         },
         {
             "community": "ethtrader_test",
+            "patterns": ["chain\\s*link"],
+            "display_name": "Chainlink",
+            "limit": 2,
+            "overrides": {
+                "include": [],
+                "ignore": []
+            }
+        },
+        {
+            "community": "ethtrader_test",
             "patterns": ["stable\\s*coin", "tether", "\\busdt\\b", "\\bxaut\\b", "\\beurt\\b", "\\bcnht\\b", "\\bmxnt\\b", "\\bcircle\\b", "\\busdc\\b", "x*dai\\b", "pyusd", "usde", "usdd", "trueusd", "tusd", "usdb", "usdc\\.e", "usdp", "fdusd", "frax", "paxg", "pax gold", "alusd"],
             "display_name": "Stables",
             "limit": 2,
