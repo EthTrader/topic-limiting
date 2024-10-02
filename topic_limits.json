@@ -15,8 +15,8 @@
         },
         {
             "display_name": "SEC",
-            "limit": 3,
-            "current": 0,
+            "limit": 2,
+            "current": 20,
             "community": "ethtrader_test"
         },
         {
@@ -45,8 +45,8 @@
         },
         {
             "display_name": "Exchanges",
-            "limit": 3,
-            "current": 0,
+            "limit": 5,
+            "current": 5,
             "community": "ethtrader_test"
         },
         {
