@@ -31,7 +31,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["chain\\s*link"],
+            "patterns": ["chain\\s*link", "nazarov", "\\bccip\\b", "cross-*chain interoperability protocol"],
             "display_name": "Chainlink",
             "limit": 2,
             "overrides": {
