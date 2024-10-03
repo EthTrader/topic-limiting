@@ -1,6 +1,6 @@
 [
         {
-            "community": "ethtrader_test",
+            "community": "ethtrader",
             "patterns": ["donut", "ethtrader"],
             "display_name": "EthTrader",
             "limit": 5,
@@ -10,7 +10,7 @@
             }
         },
         {
-            "community": "ethtrader_test",
+            "community": "ethtrader",
             "patterns": ["\\betfs*\\b", "exchange[\\s-]+traded\\s+fund", "blackrock", "invesco", "21shares", "fidelity", "franklin", "vaneck", "bitwise", "grayscale"],
             "display_name": "ETF",
             "limit": 2,
@@ -20,7 +20,7 @@
             }
         },
         {
-            "community": "ethtrader_test",
+            "community": "ethtrader",
             "patterns": ["[sS]\\.*[eE]\\.*[cC]\\.*\\b", "securit[y]*[ies]*\\s*[and]*\\s*exchange\\scommission", "sec\\.gov", "\\bgensler\\b"],
             "display_name": "SEC",
             "limit": 2,
@@ -30,7 +30,7 @@
             }
         },
         {
-            "community": "ethtrader_test",
+            "community": "ethtrader",
             "patterns": ["chain\\s*link"],
             "display_name": "Chainlink",
             "limit": 2,
@@ -40,7 +40,7 @@
             }
         },
         {
-            "community": "ethtrader_test",
+            "community": "ethtrader",
             "patterns": ["stable\\s*coin", "tether", "\\busdt\\b", "\\bxaut\\b", "\\beurt\\b", "\\bcnht\\b", "\\bmxnt\\b", "\\bcircle\\b", "\\busdc\\b", "x*dai\\b", "pyusd", "usde", "usdd", "trueusd", "tusd", "usdb", "usdc\\.e", "usdp", "fdusd", "frax", "paxg", "pax gold", "alusd"],
             "display_name": "Stables",
             "limit": 2,
@@ -50,7 +50,7 @@
             }
         },
         {
-            "community": "ethtrader_test",
+            "community": "ethtrader",
             "patterns": ["coinbase", "cbeth", "binance", "okx", "bybit", "upbit", "kraken", "gate\\.*\\s*io", "htx", "bitfinex", "kucoin", "mexc", "bitget", "crypto\\.com", "\\bcdc\\b", "bingx", "bitstamp", "bitmart", "gemini", "ftx", "mt\\.*\\s*gox", "blockfi", "celsius", "\\buni\\b", "uniswap", "pancake"],
             "display_name": "Exchanges",
             "limit": 2,
@@ -60,7 +60,7 @@
             }
         },
         {
-            "community": "ethtrader_test",
+            "community": "ethtrader",
             "patterns": ["\\blido\\b", "w*steth", "\\bldo\\b", "\\brpl\\b", "rocket\\s*pool", "\\breth\\b", "stakewise", "tenderize", "ankr", "frax", "restak", "ether[\\.]*fi", "ethfi", "w*eeth", "renzo", "ezeth", "kelp", "w*rseth", "swell", "r*sweth", "eigen", "lrts*"],
             "display_name": "Staking/Restaking",
             "limit": 2,
@@ -70,7 +70,7 @@
             }
         },
         {
-            "community": "ethtrader_test",
+            "community": "ethtrader",
             "patterns": ["meta\\s*mask", "\\bledger\\b", "\\btrezor\\b", "\\bellipal\\b", "\\btangem\\b", "\\bguarda\\b", "\\bzengo\\b", "trust\\s*wallet", "exodus", "electrum", "atomic"],
             "display_name": "Wallets",
             "limit": 2,
@@ -80,7 +80,7 @@
             }
         },
         {
-            "community": "ethtrader_test",
+            "community": "ethtrader",
             "patterns": ["pepe", "floki", "brett", "turbo", "((meme)|(shit))\\s*coins*", "\\bmog\\b", "shiba*\\b", "shiba\\s*inu", "\\bmaga\\b"],
             "display_name": "Meme Coins",
             "limit": 2,
@@ -90,7 +90,7 @@
             }
         },
         {
-            "community": "ethtrader_test",
+            "community": "ethtrader",
             "patterns": ["nft", "opean\\s*sea", "rarible", "looksrare", "crypto\\s*punk", "milady", "\\w+\\s*ape", "yuga\\s*labs", "bayc", "\\bmint\\b"],
             "display_name": "NFT",
             "limit": 2,
@@ -100,7 +100,7 @@
             }
         },
         {
-            "community": "ethtrader_test",
+            "community": "ethtrader",
             "patterns": ["\\barb\\b", "arbitrum", "optimism", "\\bop\\b", "starknet", "strk", "zksync", "manta", "venom", "base", "coti", "blast", "scroll", "linea", "zklink", "mode", "metis", "taiko", "dydx", "bob", "loopring", "kroma", "xai", "evm", "mantle", "mntl", "canto", "klaytn", "moonbeam", "zora", "evmos", "bnb", "cronos", "gnosis", "polygon", "\\bmatic\\b", "\\bpol\\b", "zkevm" ],
             "display_name": "Side Chains/Layer 2's",
             "limit": 2,
@@ -110,7 +110,7 @@
             }
         },
         {
-            "community": "ethtrader_test",
+            "community": "ethtrader",
             "patterns": ["wormhole", "layerzero", "li\\.*fi", "jumper", "bridge", "gravity", "hyperlane", "superbridge", "starkgate", "connext", "stargate", "synapse", "matcha", "hop", "axelar", "router", "debridge", "mayan", "squid", "owlto", "orbiter", "interport", "rubic", "polyhedra", "symbiosis", "xy finance"],
             "display_name": "Bridges",
             "limit": 2,
@@ -120,7 +120,7 @@
             }
         },
         {
-            "community": "ethtrader_test",
+            "community": "ethtrader",
             "patterns": ["potus", "congress", "joint\\s*committee", "legislative", "legislature", "senate", "veto", "politic", "bilateral", "caucus", "constitution", "biden", "kamala", "pelosi", "trump", "barack", "obama", "clinton", "warren", "ted\\s*cruz", "bernie\\s*sanders", "president", "mayor", "governer", "legislator", "ambassador", "judge", "senator", "representative"],
             "display_name": "Politics",
             "limit": 2,
@@ -130,7 +130,7 @@
             }
         },
         {
-            "community": "ethtrader_test",
+            "community": "ethtrader",
             "patterns": ["justin sun", "elon", "musk", "saylor", "antonopoulos", "pompliano", "\\bcz\\b", "changpeng", "buterin", "vitalik", "hoskinson", "brian\\s*armstrong", "jack\\s*dorsey", "\\bsbf\\b", "bankman", "gavin\\s*wood", "cathie\\s*wood", "winklevoss" ],
             "display_name": "Influencers",
             "limit": 2,
@@ -140,7 +140,7 @@
             }
         },
         {
-            "community": "ethtrader_test",
+            "community": "ethtrader",
             "patterns": ["air\\s*drop", "farming", "drop[\\s\\w,.-]+claim", "claim[\\s\\w,.-]+drop" ],
             "display_name": "Airdrops",
             "limit": 2,
@@ -150,7 +150,7 @@
             }
         },
         {
-            "community": "ethtrader_test",
+            "community": "ethtrader",
             "patterns": ["rules*\\b", "laws*\\b", "policy", "policies", "guidelines*", "standards*", "compliance", "legislation", "restrictions*", "regulation", "enforcement", "regulatory", "compliance", "mandate", "directive", "framework", "license", "prohibition", "audit" ],
             "display_name": "Regulation",
             "limit": 2,
@@ -160,7 +160,7 @@
             }
         },
         {
-            "community": "ethtrader_test",
+            "community": "ethtrader",
             "patterns": ["gdp", "inflation", "employment", "monetary", "economic", "growth", "interest", "deficit", "national\\s*debt", "recession", "central\\s*bank", "cramer", "krugman", "yellen", "powell" ],
             "display_name": "Macroeconomics",
             "limit": 2,
@@ -170,7 +170,7 @@
             }
         },
         {
-            "community": "ethtrader_test",
+            "community": "ethtrader",
             "patterns": ["\\bpump\\b", "\\bdip\\b", "\\bsurge\\b", "\\bdump\\b", "\\bspike\\b", "\\bplunge\\b", "\\brally\\b", "\\bmoon\\b", "\\bcrash\\b", "\\bath\\b", "price\\s*movement", "\\bta\\b", "technical\\s+analysis", "\\btrading\\b", "\\bcharts?\\b"],
             "display_name": "ETH Trading",
             "limit": 5,
