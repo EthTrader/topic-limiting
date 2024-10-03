@@ -1,131 +1,131 @@
 {
-    "last_update": 1727964504,
+    "last_update": 1727964717,
     "data": [
         {
             "display_name": "EthTrader",
             "limit": 5,
             "current": 0,
             "submissions": [],
-            "community": "ethtrader"
+            "community": "ethtrader_test"
         },
         {
             "display_name": "ETF",
             "limit": 2,
             "current": 0,
             "submissions": [],
-            "community": "ethtrader"
+            "community": "ethtrader_test"
         },
         {
             "display_name": "SEC",
             "limit": 2,
             "current": 0,
             "submissions": [],
-            "community": "ethtrader"
+            "community": "ethtrader_test"
         },
         {
             "display_name": "Chainlink",
             "limit": 2,
             "current": 0,
             "submissions": [],
-            "community": "ethtrader"
+            "community": "ethtrader_test"
         },
         {
             "display_name": "Stables",
             "limit": 2,
             "current": 0,
             "submissions": [],
-            "community": "ethtrader"
+            "community": "ethtrader_test"
         },
         {
             "display_name": "Exchanges",
             "limit": 2,
             "current": 0,
             "submissions": [],
-            "community": "ethtrader"
+            "community": "ethtrader_test"
         },
         {
             "display_name": "Staking/Restaking",
             "limit": 2,
             "current": 0,
             "submissions": [],
-            "community": "ethtrader"
+            "community": "ethtrader_test"
         },
         {
             "display_name": "Wallets",
             "limit": 2,
             "current": 0,
             "submissions": [],
-            "community": "ethtrader"
+            "community": "ethtrader_test"
         },
         {
             "display_name": "Meme Coins",
             "limit": 2,
             "current": 0,
             "submissions": [],
-            "community": "ethtrader"
+            "community": "ethtrader_test"
         },
         {
             "display_name": "NFT",
             "limit": 2,
             "current": 0,
             "submissions": [],
-            "community": "ethtrader"
+            "community": "ethtrader_test"
         },
         {
             "display_name": "Side Chains/Layer 2's",
             "limit": 2,
             "current": 0,
             "submissions": [],
-            "community": "ethtrader"
+            "community": "ethtrader_test"
         },
         {
             "display_name": "Bridges",
             "limit": 2,
             "current": 0,
             "submissions": [],
-            "community": "ethtrader"
+            "community": "ethtrader_test"
         },
         {
             "display_name": "Politics",
             "limit": 2,
             "current": 0,
             "submissions": [],
-            "community": "ethtrader"
+            "community": "ethtrader_test"
         },
         {
             "display_name": "Influencers",
             "limit": 2,
             "current": 0,
             "submissions": [],
-            "community": "ethtrader"
+            "community": "ethtrader_test"
         },
         {
             "display_name": "Airdrops",
             "limit": 2,
             "current": 0,
             "submissions": [],
-            "community": "ethtrader"
+            "community": "ethtrader_test"
         },
         {
             "display_name": "Regulation",
             "limit": 2,
             "current": 0,
             "submissions": [],
-            "community": "ethtrader"
+            "community": "ethtrader_test"
         },
         {
             "display_name": "Macroeconomics",
             "limit": 2,
             "current": 0,
             "submissions": [],
-            "community": "ethtrader"
+            "community": "ethtrader_test"
         },
         {
             "display_name": "ETH Trading",
             "limit": 5,
             "current": 0,
             "submissions": [],
-            "community": "ethtrader"
+            "community": "ethtrader_test"
         }
     ]
 }
