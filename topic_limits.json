@@ -1,13 +1,14 @@
 {
-    "last_update": 1728027902,
+    "last_update": 1728028202,
     "data": [
         {
             "display_name": "EthTrader",
             "limit": 5,
-            "current": 2,
+            "current": 3,
             "submissions": [
                 "https://redd.it/1fvdsm1",
-                "https://redd.it/1fv96mm"
+                "https://redd.it/1fv96mm",
+                "https://redd.it/1fvanxp"
             ],
             "community": "ethtrader"
         },
@@ -78,8 +79,8 @@
             "submissions": [
                 "https://redd.it/1fvt1sl",
                 "https://redd.it/1fvppio",
-                "https://redd.it/1fvt8bj",
-                "https://redd.it/1fvoj99"
+                "https://redd.it/1fvoj99",
+                "https://redd.it/1fvt8bj"
             ],
             "community": "ethtrader"
         },
@@ -95,12 +96,11 @@
         {
             "display_name": "Side Chains/Layer 2's",
             "limit": 2,
-            "current": 4,
+            "current": 3,
             "submissions": [
                 "https://redd.it/1fvrdx3",
                 "https://redd.it/1fvozx5",
-                "https://redd.it/1fvtmge",
-                "https://redd.it/1fv7p0u"
+                "https://redd.it/1fvtmge"
             ],
             "community": "ethtrader"
         },
@@ -147,10 +147,8 @@
         {
             "display_name": "Macroeconomics",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1fvasbm"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
