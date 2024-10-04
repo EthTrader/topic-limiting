@@ -1,5 +1,5 @@
 {
-    "last_update": 1728052502,
+    "last_update": 1728052803,
     "data": [
         {
             "display_name": "EthTrader",
@@ -74,21 +74,21 @@
         {
             "display_name": "Meme Coins",
             "limit": 2,
-            "current": 4,
+            "current": 3,
             "submissions": [
                 "https://redd.it/1fvwsv5",
                 "https://redd.it/1fvt8bj",
-                "https://redd.it/1fvppio",
-                "https://redd.it/1fvoj99"
+                "https://redd.it/1fvppio"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "NFT",
             "limit": 2,
-            "current": 2,
+            "current": 3,
             "submissions": [
                 "https://redd.it/1fvwy5l",
+                "https://redd.it/1fw0o2l",
                 "https://redd.it/1fvoke8"
             ],
             "community": "ethtrader"
@@ -96,12 +96,11 @@
         {
             "display_name": "Side Chains/Layer 2's",
             "limit": 2,
-            "current": 4,
+            "current": 3,
             "submissions": [
                 "https://redd.it/1fw02q8",
                 "https://redd.it/1fvzeih",
-                "https://redd.it/1fvtmge",
-                "https://redd.it/1fvozx5"
+                "https://redd.it/1fvtmge"
             ],
             "community": "ethtrader"
         },
@@ -147,11 +146,12 @@
         {
             "display_name": "Macroeconomics",
             "limit": 2,
-            "current": 3,
+            "current": 4,
             "submissions": [
                 "https://redd.it/1fvxhcu",
                 "https://redd.it/1fvwirj",
-                "https://redd.it/1fvykn2"
+                "https://redd.it/1fvykn2",
+                "https://redd.it/1fw0mqa"
             ],
             "community": "ethtrader"
         },
