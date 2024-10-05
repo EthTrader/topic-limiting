@@ -1,5 +1,5 @@
 {
-    "last_update": 1728153602,
+    "last_update": 1728153902,
     "data": [
         {
             "display_name": "EthTrader",
@@ -47,8 +47,8 @@
             "limit": 2,
             "current": 2,
             "submissions": [
-                "https://redd.it/1fwnhlt",
-                "https://redd.it/1fwkxnz"
+                "https://redd.it/1fwkxnz",
+                "https://redd.it/1fwnhlt"
             ],
             "community": "ethtrader"
         },
@@ -74,9 +74,9 @@
             "limit": 2,
             "current": 4,
             "submissions": [
-                "https://redd.it/1fwpv3y",
                 "https://redd.it/1fwoccq",
                 "https://redd.it/1fwmjfn",
+                "https://redd.it/1fwpv3y",
                 "https://redd.it/1fwp9mf"
             ],
             "community": "ethtrader"
@@ -107,8 +107,10 @@
         {
             "display_name": "Bridges",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1fwx8f5"
+            ],
             "community": "ethtrader"
         },
         {
