@@ -1,5 +1,5 @@
 {
-    "last_update": 1728127502,
+    "last_update": 1728127803,
     "data": [
         {
             "display_name": "EthTrader",
@@ -52,8 +52,8 @@
             "limit": 2,
             "current": 3,
             "submissions": [
-                "https://redd.it/1fwkxnz",
                 "https://redd.it/1fwnhlt",
+                "https://redd.it/1fwkxnz",
                 "https://redd.it/1fwhadv"
             ],
             "community": "ethtrader"
@@ -136,8 +136,10 @@
         {
             "display_name": "Airdrops",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1fw4dh6"
+            ],
             "community": "ethtrader"
         },
         {
@@ -152,22 +154,21 @@
         {
             "display_name": "Macroeconomics",
             "limit": 2,
-            "current": 3,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1fwht6x",
-                "https://redd.it/1fwn3xo",
-                "https://redd.it/1fwnl5h"
+                "https://redd.it/1fwht6x"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "ETH Trading",
             "limit": 5,
-            "current": 3,
+            "current": 4,
             "submissions": [
                 "https://redd.it/1fwljg0",
                 "https://redd.it/1fwk6tu",
-                "https://redd.it/1fwi8s9"
+                "https://redd.it/1fwi8s9",
+                "https://redd.it/1fw3qeh"
             ],
             "community": "ethtrader"
         }
