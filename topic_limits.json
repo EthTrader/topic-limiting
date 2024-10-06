@@ -1,5 +1,5 @@
 {
-    "last_update": 1728209703,
+    "last_update": 1728210003,
     "data": [
         {
             "display_name": "EthTrader",
@@ -100,9 +100,10 @@
         {
             "display_name": "Bridges",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1fx91ua"
+                "https://redd.it/1fx91ua",
+                "https://redd.it/1fxdd12"
             ],
             "community": "ethtrader"
         },
@@ -145,11 +146,10 @@
         {
             "display_name": "Macroeconomics",
             "limit": 2,
-            "current": 3,
+            "current": 2,
             "submissions": [
                 "https://redd.it/1fxavji",
-                "https://redd.it/1fx7hs4",
-                "https://redd.it/1fwtfhv"
+                "https://redd.it/1fx7hs4"
             ],
             "community": "ethtrader"
         },
