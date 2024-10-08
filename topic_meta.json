@@ -111,7 +111,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["wormhole", "layerzero", "li\\.*fi", "jumper", "bridge", "gravity", "hyperlane", "superbridge", "starkgate", "connext", "stargate", "synapse", "matcha", "hop", "axelar", "router", "debridge", "mayan", "squid", "owlto", "orbiter", "interport", "rubic", "polyhedra", "symbiosis", "xy finance"],
+            "patterns": ["wormhole", "layer\\s*zero", "li\\.*fi", "jumper", "bridge", "gravity", "hyperlane", "starkgate", "connext", "stargate", "synapse", "matcha", "hop", "axelar", "router", "mayan", "squid", "owlto", "orbiter", "interport", "rubic", "polyhedra", "symbiosis", "xy\\s*finance"],
             "display_name": "Bridges",
             "limit": 2,
             "overrides": {
