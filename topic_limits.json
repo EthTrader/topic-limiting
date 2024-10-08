@@ -1,5 +1,5 @@
 {
-    "last_update": 1728367203,
+    "last_update": 1728367502,
     "data": [
         {
             "display_name": "EthTrader",
@@ -15,10 +15,9 @@
         {
             "display_name": "ETF",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1fyqobf",
-                "https://redd.it/1fy3avn"
+                "https://redd.it/1fyqobf"
             ],
             "community": "ethtrader"
         },
@@ -72,8 +71,10 @@
         {
             "display_name": "Wallets",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1fyt087"
+            ],
             "community": "ethtrader"
         },
         {
@@ -98,9 +99,10 @@
         {
             "display_name": "Side Chains/Layer 2's",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1fyqj39"
+                "https://redd.it/1fyqj39",
+                "https://redd.it/1fyt122"
             ],
             "community": "ethtrader"
         },
@@ -146,10 +148,9 @@
         {
             "display_name": "Macroeconomics",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1fyb361",
-                "https://redd.it/1fy32o4"
+                "https://redd.it/1fyb361"
             ],
             "community": "ethtrader"
         },
