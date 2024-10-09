@@ -71,7 +71,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["custodial", "meta\\s*mask", "\\bledger\\b", "\\btrezor\\b", "\\bellipal\\b", "\\btangem\\b", "\\bguarda\\b", "\\bzengo\\b", "trust\\s*wallet", "exodus", "electrum", "atomic"],
+            "patterns": ["crypto wallet", "custodial", "meta\\s*mask", "\\bledger\\b", "\\btrezor\\b", "\\bellipal\\b", "\\btangem\\b", "\\bguarda\\b", "\\bzengo\\b", "trust\\s*wallet", "exodus", "electrum", "atomic"],
             "display_name": "Wallets",
             "limit": 2,
             "overrides": {
