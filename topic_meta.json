@@ -103,7 +103,7 @@
             "community": "ethtrader",
             "patterns": ["layer[\\s-]*((2|two)|(3|three))", "\\barb\\b", "arbitrum", "optimism", "\\bop\\b", "starknet", "strk", "zksync", "manta", "venom", "base", "coti", "blast", "scroll", "linea", "zklink", "mode", "metis", "taiko", "dydx", "bob", "loopring", "kroma", "xai", "evm", "mantle", "mntl", "canto", "klaytn", "moonbeam", "zora", "evmos", "bnb", "cronos", "gnosis", "polygon", "\\bmatic\\b", "\\bpol\\b", "zkevm" ],
             "display_name": "Side Chains/Layer 2's",
-            "limit": 6,
+            "limit": 8,
             "overrides": {
                 "include": [],
                 "ignore": []
@@ -171,9 +171,19 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["liquidat", "\\bpump\\b", "\\bdip\\b", "\\bsurge\\b", "\\bdump\\b", "\\bspike\\b", "\\bplunge\\b", "\\brally\\b", "\\bmoon\\b", "\\bcrash\\b", "\\bath\\b", "price\\s*movement", "\\bta\\b", "technical\\s+analysis", "\\btrading\\b", "\\bcharts?\\b"],
+            "patterns": ["\\bpump\\b", "\\bdip\\b", "\\bsurge\\b", "\\bdump\\b", "\\bspike\\b", "\\bplunge\\b", "\\brally\\b", "\\bmoon\\b", "\\bcrash\\b", "\\bath\\b", "price\\s*movement", "\\bta\\b", "technical\\s+analysis", "\\btrading\\b", "\\bcharts?\\b"],
             "display_name": "ETH Trading",
             "limit": 10,
+            "overrides": {
+                "include": [],
+                "ignore": []
+            }
+        },
+        {
+            "community": "ethtrader",
+            "patterns": ["\\bdefi\\b", "decentralized finance", "total value locked", "tvl", "lend", "borrow", "liquidat", "impermanent loss"],
+            "display_name": "DeFi",
+            "limit": 3,
             "overrides": {
                 "include": [],
                 "ignore": []
