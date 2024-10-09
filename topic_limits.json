@@ -1,5 +1,5 @@
 {
-    "last_update": 1728486003,
+    "last_update": 1728486302,
     "data": [
         {
             "display_name": "EthTrader",
@@ -35,11 +35,10 @@
         {
             "display_name": "Chainlink",
             "limit": 2,
-            "current": 3,
+            "current": 2,
             "submissions": [
                 "https://redd.it/1fzmend",
-                "https://redd.it/1fzmaim",
-                "https://redd.it/1fzgnaj"
+                "https://redd.it/1fzmaim"
             ],
             "community": "ethtrader"
         },
@@ -117,10 +116,8 @@
         {
             "display_name": "Bridges",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1fzii1o"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
