@@ -1,5 +1,5 @@
 {
-    "last_update": 1728642602,
+    "last_update": 1728642902,
     "data": [
         {
             "display_name": "EthTrader",
@@ -110,8 +110,10 @@
         {
             "display_name": "Bridges",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1g16nh8"
+            ],
             "community": "ethtrader"
         },
         {
