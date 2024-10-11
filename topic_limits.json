@@ -1,5 +1,5 @@
 {
-    "last_update": 1728611402,
+    "last_update": 1728611702,
     "data": [
         {
             "display_name": "EthTrader",
@@ -91,8 +91,9 @@
         {
             "display_name": "NFT",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
+                "https://redd.it/1g0z0sm",
                 "https://redd.it/1g0crsj"
             ],
             "community": "ethtrader"
