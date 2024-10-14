@@ -11,6 +11,16 @@
         },
         {
             "community": "ethtrader",
+            "patterns": ["air\\s*drop", "farming", "drop[\\s\\w,.-]+claim", "claim[\\s\\w,.-]+drop" ],
+            "display_name": "Airdrops",
+            "limit": 2,
+            "overrides": {
+                "include": [],
+                "ignore": []
+            }
+        },
+        {
+            "community": "ethtrader",
             "patterns": ["\\betfs*\\b", "exchange[\\s-]+traded\\s+fund", "blackrock", "invesco", "21shares", "fidelity", "franklin", "vaneck", "bitwise", "grayscale"],
             "display_name": "ETF",
             "limit": 2,
@@ -101,16 +111,6 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["layer[\\s-]*((2|two)|(3|three))", "\\barb\\b", "arbitrum", "optimism", "\\bop\\b", "starknet", "strk", "zksync", "manta", "venom", "base", "coti", "blast", "scroll", "linea", "zklink", "mode", "metis", "taiko", "dydx", "bob", "loopring", "kroma", "xai", "evm", "mantle", "mntl", "canto", "klaytn", "moonbeam", "zora", "evmos", "bnb", "cronos", "gnosis", "polygon", "\\bmatic\\b", "\\bpol\\b", "zkevm" ],
-            "display_name": "Side Chains/Layer 2's",
-            "limit": 8,
-            "overrides": {
-                "include": [],
-                "ignore": []
-            }
-        },
-        {
-            "community": "ethtrader",
             "patterns": ["wormhole", "layer\\s*zero", "li\\.*fi", "jumper", "bridge", "gravity", "hyperlane", "starkgate", "connext", "stargate", "synapse", "matcha", "hop", "axelar", "router", "mayan", "squid", "owlto", "orbiter", "interport", "rubic", "polyhedra", "symbiosis", "xy\\s*finance"],
             "display_name": "Bridges",
             "limit": 2,
@@ -141,17 +141,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["air\\s*drop", "farming", "drop[\\s\\w,.-]+claim", "claim[\\s\\w,.-]+drop" ],
-            "display_name": "Airdrops",
-            "limit": 2,
-            "overrides": {
-                "include": [],
-                "ignore": []
-            }
-        },
-        {
-            "community": "ethtrader",
-            "patterns": ["rules*\\b", "laws*\\b", "policy", "policies", "guidelines*", "standards*", "compliance", "legislation", "restrictions*", "regulation", "enforcement", "regulatory", "compliance", "mandate", "directive", "framework", "license", "prohibition", "audit" ],
+            "patterns": ["regulator", "rules*\\b", "laws*\\b", "policy", "policies", "guidelines*", "standards*", "compliance", "legislation", "restrictions*", "regulation", "enforcement", "regulatory", "compliance", "mandate", "directive", "framework", "license", "prohibition", "audit" ],
             "display_name": "Regulation",
             "limit": 2,
             "overrides": {
@@ -188,5 +178,15 @@
                 "include": [],
                 "ignore": []
             }
-        }
+        },
+        {
+            "community": "ethtrader",
+            "patterns": ["layer[\\s-]*((2|two)|(3|three))", "\\barb\\b", "arbitrum", "optimism", "\\bop\\b", "starknet", "strk", "zksync", "manta", "venom", "base", "coti", "blast", "scroll", "linea", "zklink", "mode", "metis", "taiko", "dydx", "bob", "loopring", "kroma", "xai", "evm", "mantle", "mntl", "canto", "klaytn", "moonbeam", "zora", "evmos", "bnb", "cronos", "gnosis", "polygon", "\\bmatic\\b", "\\bpol\\b", "zkevm" ],
+            "display_name": "Side Chains/Layer 2's",
+            "limit": 8,
+            "overrides": {
+                "include": [],
+                "ignore": []
+            }
+        },
     ]
