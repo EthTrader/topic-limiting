@@ -1,14 +1,15 @@
 {
-    "last_update": 1728920402,
+    "last_update": 1728920702,
     "data": [
         {
             "display_name": "EthTrader",
             "limit": 5,
-            "current": 3,
+            "current": 4,
             "submissions": [
                 "https://redd.it/1g3csf4",
                 "https://redd.it/1g3cpik",
-                "https://redd.it/1g3baqx"
+                "https://redd.it/1g3baqx",
+                "https://redd.it/1g3hpdq"
             ],
             "community": "ethtrader"
         },
@@ -24,8 +25,8 @@
             "limit": 2,
             "current": 2,
             "submissions": [
-                "https://redd.it/1g3hudg",
-                "https://redd.it/1g3ch1g"
+                "https://redd.it/1g3ch1g",
+                "https://redd.it/1g3hudg"
             ],
             "community": "ethtrader"
         },
@@ -125,10 +126,9 @@
         {
             "display_name": "Influencers",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1g3epna",
-                "https://redd.it/1g36b72"
+                "https://redd.it/1g3epna"
             ],
             "community": "ethtrader"
         },
