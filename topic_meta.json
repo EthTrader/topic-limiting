@@ -161,7 +161,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["\\bdefi\\b", "decentralized finance", "total value locked", "tvl", "lend", "borrow", "liquidat", "impermanent loss"],
+            "patterns": ["\\bdefi\\b", "decentralized finance", "total value locked", "tvl", "lend", "borrow", "liquidat", "impermanent loss", "\\bdex\\b"],
             "display_name": "DeFi",
             "limit": 3,
             "overrides": {
@@ -181,7 +181,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["coinbase", "sushi", "binance", "okx", "bybit", "upbit", "kraken", "gate\\.*\\s*io", "htx", "bitfinex", "kucoin", "mexc", "bitget", "crypto\\.com", "\\bcdc\\b", "bingx", "bitstamp", "bitmart", "gemini", "ftx", "mt\\.*\\s*gox", "blockfi", "celsius", "\\buni\\b", "uniswap", "pancake"],
+            "patterns": ["\\bcex\\b", "coinbase", "sushi", "binance", "okx", "bybit", "upbit", "kraken", "gate\\.*\\s*io", "htx", "bitfinex", "kucoin", "mexc", "bitget", "crypto\\.com", "\\bcdc\\b", "bingx", "bitstamp", "bitmart", "gemini", "ftx", "mt\\.*\\s*gox", "blockfi", "celsius", "\\buni\\b", "uniswap", "pancake"],
             "display_name": "Exchanges",
             "limit": 2,
             "overrides": {
