@@ -1,5 +1,5 @@
 {
-    "last_update": 1729006203,
+    "last_update": 1729006502,
     "data": [
         {
             "display_name": "EthTrader",
@@ -14,9 +14,10 @@
         {
             "display_name": "Airdrops",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1g48bw2"
+                "https://redd.it/1g48bw2",
+                "https://redd.it/1g4ai6m"
             ],
             "community": "ethtrader"
         },
@@ -73,10 +74,9 @@
         {
             "display_name": "Wallets",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1g4404s",
-                "https://redd.it/1g46vmb"
+                "https://redd.it/1g4404s"
             ],
             "community": "ethtrader"
         },
