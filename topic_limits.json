@@ -1,5 +1,5 @@
 {
-    "last_update": 1729157102,
+    "last_update": 1729157402,
     "data": [
         {
             "display_name": "EthTrader",
@@ -92,8 +92,10 @@
         {
             "display_name": "Bridges",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1g5mvlw"
+            ],
             "community": "ethtrader"
         },
         {
@@ -139,8 +141,8 @@
             "submissions": [
                 "https://redd.it/1g5lr2y",
                 "https://redd.it/1g5hogp",
-                "https://redd.it/1g5h19o",
                 "https://redd.it/1g5iyzw",
+                "https://redd.it/1g5h19o",
                 "https://redd.it/1g5mnys",
                 "https://redd.it/1g557wx"
             ],
@@ -149,11 +151,10 @@
         {
             "display_name": "DeFi",
             "limit": 3,
-            "current": 3,
+            "current": 2,
             "submissions": [
                 "https://redd.it/1g5hg9r",
-                "https://redd.it/1g5gncu",
-                "https://redd.it/1g4xezl"
+                "https://redd.it/1g5gncu"
             ],
             "community": "ethtrader"
         },
