@@ -1,5 +1,5 @@
 {
-    "last_update": 1729155002,
+    "last_update": 1729155302,
     "data": [
         {
             "display_name": "EthTrader",
@@ -13,8 +13,10 @@
         {
             "display_name": "Airdrops",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1g5ma4u"
+            ],
             "community": "ethtrader"
         },
         {
@@ -109,8 +111,8 @@
             "limit": 2,
             "current": 2,
             "submissions": [
-                "https://redd.it/1g5h71z",
-                "https://redd.it/1g5jh4w"
+                "https://redd.it/1g5jh4w",
+                "https://redd.it/1g5h71z"
             ],
             "community": "ethtrader"
         },
@@ -134,14 +136,13 @@
         {
             "display_name": "ETH Trading",
             "limit": 10,
-            "current": 6,
+            "current": 5,
             "submissions": [
-                "https://redd.it/1g5hogp",
                 "https://redd.it/1g5lr2y",
+                "https://redd.it/1g5hogp",
                 "https://redd.it/1g5h19o",
                 "https://redd.it/1g5iyzw",
-                "https://redd.it/1g557wx",
-                "https://redd.it/1g53ra4"
+                "https://redd.it/1g557wx"
             ],
             "community": "ethtrader"
         },
