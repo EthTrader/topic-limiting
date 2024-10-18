@@ -1,5 +1,5 @@
 {
-    "last_update": 1729230902,
+    "last_update": 1729231203,
     "data": [
         {
             "display_name": "EthTrader",
@@ -13,10 +13,8 @@
         {
             "display_name": "Airdrops",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1g5ma4u"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
@@ -86,8 +84,9 @@
         {
             "display_name": "NFT",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
+                "https://redd.it/1g6baur",
                 "https://redd.it/1g5rqbn"
             ],
             "community": "ethtrader"
@@ -115,9 +114,10 @@
         {
             "display_name": "Influencers",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1g68zb8"
+                "https://redd.it/1g68zb8",
+                "https://redd.it/1g6b9jb"
             ],
             "community": "ethtrader"
         },
