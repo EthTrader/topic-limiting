@@ -121,8 +121,8 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["influencer", "justin sun", "elon", "musk", "saylor", "antonopoulos", "pompliano", "\\bcz\\b", "changpeng", "buterin", "vitalik", "hoskinson", "brian\\s*armstrong", "jack\\s*dorsey", "\\bsbf\\b", "bankman", "gavin\\s*wood", "cathie\\s*wood", "winklevoss" ],
-            "display_name": "Influencers",
+            "patterns": ["celebrit", "influencer", "justin sun", "elon", "musk", "saylor", "antonopoulos", "pompliano", "\\bcz\\b", "changpeng", "buterin", "vitalik", "hoskinson", "brian\\s*armstrong", "jack\\s*dorsey", "\\bsbf\\b", "bankman", "gavin\\s*wood", "cathie\\s*wood", "winklevoss" ],
+            "display_name": "Influencers/Celebrities",
             "limit": 2,
             "overrides": {
                 "include": [],
