@@ -141,7 +141,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["federal reserve", "fomc", "\\bfed\\b", "gdp", "inflation", "employment", "monetary", "economic", "growth", "interest rate", "deficit", "national\\s*debt", "recession", "central\\s*bank", "cramer", "krugman", "yellen", "powell" ],
+            "patterns": ["federal reserve", "fomc", "\\bfed\\b", "gdp", "inflation", "employment", "monetary", "economic", "interest rate", "deficit", "national\\s*debt", "recession", "central\\s*bank", "cramer", "krugman", "yellen", "powell" ],
             "display_name": "Macroeconomics",
             "limit": 2,
             "overrides": {
@@ -171,7 +171,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["layer[\\s-]*((2|two)|(3|three))", "unichain", "\\barb\\b", "arbitrum", "optimism", "\\bop\\b", "starknet", "strk", "zksync", "manta", "venom", "base", "coti", "blast", "scroll", "linea", "zklink", "mode", "metis", "taiko", "dydx", "bob", "loopring", "kroma", "xai", "evm", "mantle", "mntl", "canto", "klaytn", "moonbeam", "zora", "evmos", "bnb", "cronos", "gnosis", "polygon", "\\bmatic\\b", "\\bpol\\b", "zkevm" ],
+            "patterns": ["\\bl2s*\\b", "layer[\\s-]*((2|two)|(3|three))", "unichain", "\\barb\\b", "arbitrum", "optimism", "\\bop\\b", "starknet", "strk", "zksync", "manta", "venom", "base", "coti", "blast", "scroll", "linea", "zklink", "mode", "metis", "taiko", "dydx", "bob", "loopring", "kroma", "xai", "evm", "mantle", "mntl", "canto", "klaytn", "moonbeam", "zora", "evmos", "bnb", "cronos", "gnosis", "polygon", "\\bmatic\\b", "\\bpol\\b", "zkevm" ],
             "display_name": "Side Chains/Layer 2's",
             "limit": 8,
             "overrides": {
