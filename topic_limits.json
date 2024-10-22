@@ -1,13 +1,12 @@
 {
-    "last_update": 1729599302,
+    "last_update": 1729599602,
     "data": [
         {
             "display_name": "EthTrader",
             "limit": 5,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1g7xy8c",
-                "https://redd.it/1g8pjtc"
+                "https://redd.it/1g7xy8c"
             ],
             "community": "ethtrader"
         },
@@ -100,9 +99,10 @@
         {
             "display_name": "Politics",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1g8pit4"
+                "https://redd.it/1g8pit4",
+                "https://redd.it/1g9dh2m"
             ],
             "community": "ethtrader"
         },
@@ -120,8 +120,8 @@
             "limit": 2,
             "current": 2,
             "submissions": [
-                "https://redd.it/1g9clcz",
-                "https://redd.it/1g9db7y"
+                "https://redd.it/1g9db7y",
+                "https://redd.it/1g9clcz"
             ],
             "community": "ethtrader"
         },
