@@ -1,14 +1,13 @@
 {
-    "last_update": 1729585802,
+    "last_update": 1729586102,
     "data": [
         {
             "display_name": "EthTrader",
             "limit": 5,
-            "current": 3,
+            "current": 2,
             "submissions": [
                 "https://redd.it/1g7xy8c",
-                "https://redd.it/1g8pjtc",
-                "https://redd.it/1g8n3n5"
+                "https://redd.it/1g8pjtc"
             ],
             "community": "ethtrader"
         },
@@ -25,9 +24,10 @@
         {
             "display_name": "ETF",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1g9ajww"
+                "https://redd.it/1g9ajww",
+                "https://redd.it/1g9dbl1"
             ],
             "community": "ethtrader"
         },
@@ -119,18 +119,20 @@
         {
             "display_name": "Regulation",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1g9clcz"
+                "https://redd.it/1g9clcz",
+                "https://redd.it/1g9db7y"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "Macroeconomics",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1g9adgy"
+                "https://redd.it/1g9adgy",
+                "https://redd.it/1g9dclr"
             ],
             "community": "ethtrader"
         },
