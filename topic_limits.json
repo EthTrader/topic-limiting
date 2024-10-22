@@ -1,5 +1,5 @@
 {
-    "last_update": 1729605302,
+    "last_update": 1729605605,
     "data": [
         {
             "display_name": "EthTrader",
@@ -13,8 +13,9 @@
         {
             "display_name": "Airdrops",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
+                "https://redd.it/1g9ipjh",
                 "https://redd.it/1g9cgdr"
             ],
             "community": "ethtrader"
