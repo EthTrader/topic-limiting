@@ -1,5 +1,5 @@
 {
-    "last_update": 1729746003,
+    "last_update": 1729746302,
     "data": [
         {
             "display_name": "EthTrader",
@@ -34,8 +34,10 @@
         {
             "display_name": "SEC",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1gauxd0"
+            ],
             "community": "ethtrader"
         },
         {
@@ -102,10 +104,9 @@
         {
             "display_name": "Politics",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1gaur8n",
-                "https://redd.it/1ga65as"
+                "https://redd.it/1gaur8n"
             ],
             "community": "ethtrader"
         },
