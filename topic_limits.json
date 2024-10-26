@@ -1,5 +1,5 @@
 {
-    "last_update": 1729940703,
+    "last_update": 1729941002,
     "data": [
         {
             "display_name": "EthTrader",
@@ -49,10 +49,11 @@
         {
             "display_name": "Stables",
             "limit": 2,
-            "current": 2,
+            "current": 3,
             "submissions": [
                 "https://redd.it/1gchojs",
-                "https://redd.it/1gcg5ns"
+                "https://redd.it/1gcg5ns",
+                "https://redd.it/1gboz2z"
             ],
             "community": "ethtrader"
         },
@@ -140,8 +141,8 @@
             "current": 6,
             "submissions": [
                 "https://redd.it/1gcfzpx",
-                "https://redd.it/1gcepy6",
                 "https://redd.it/1gcb1gd",
+                "https://redd.it/1gcim8w",
                 "https://redd.it/1gblv65",
                 "https://redd.it/1gbu5e0",
                 "https://redd.it/1gbok9b"
@@ -160,9 +161,9 @@
             "limit": 8,
             "current": 4,
             "submissions": [
-                "https://redd.it/1gcggjw",
                 "https://redd.it/1gchdjg",
                 "https://redd.it/1gcg6hu",
+                "https://redd.it/1gcggjw",
                 "https://redd.it/1gcaf71"
             ],
             "community": "ethtrader"
