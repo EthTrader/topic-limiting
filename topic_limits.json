@@ -1,5 +1,5 @@
 {
-    "last_update": 1730123102,
+    "last_update": 1730123403,
     "data": [
         {
             "display_name": "EthTrader",
@@ -113,20 +113,21 @@
             "community": "ethtrader"
         },
         {
+            "display_name": "Macroeconomics",
+            "limit": 2,
+            "current": 2,
+            "submissions": [
+                "https://redd.it/1ge0cau",
+                "https://redd.it/1gdy29u"
+            ],
+            "community": "ethtrader"
+        },
+        {
             "display_name": "Regulation",
             "limit": 2,
             "current": 1,
             "submissions": [
                 "https://redd.it/1gdwow0"
-            ],
-            "community": "ethtrader"
-        },
-        {
-            "display_name": "Macroeconomics",
-            "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1gdy29u"
             ],
             "community": "ethtrader"
         },
