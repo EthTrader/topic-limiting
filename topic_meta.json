@@ -81,7 +81,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["pepe", "floki", "brett", "turbo", "((meme)|(shit))\\s*coins*", "\\bmog\\b", "shiba*\\b", "shiba\\s*inu", "\\bmaga\\b"],
+            "patterns": ["spx6900", "neiro", "pepe", "floki", "brett", "turbo", "((meme)|(shit))\\s*coins*", "\\bmog\\b", "shiba*\\b", "shiba\\s*inu", "\\bmaga\\b"],
             "display_name": "Meme Coins",
             "limit": 2,
             "overrides": {
