@@ -131,8 +131,8 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["regulator", "rules*\\b", "laws*\\b", "policy", "policies", "guidelines*", "standards*", "compliance", "legislation", "restrictions*", "regulation", "enforcement", "regulatory", "compliance", "mandate", "directive", "framework", "license", "prohibition", "audit" ],
-            "display_name": "Regulation",
+            "patterns": ["mortgage", "federal reserve", "fomc", "\\bfed\\b", "gdp", "inflation", "employment", "monetary", "economic", "interest rate", "deficit", "national\\s*debt", "recession", "central\\s*bank", "cramer", "krugman", "yellen", "powell" ],
+            "display_name": "Macroeconomics",
             "limit": 2,
             "overrides": {
                 "include": [],
@@ -141,8 +141,8 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["federal reserve", "fomc", "\\bfed\\b", "gdp", "inflation", "employment", "monetary", "economic", "interest rate", "deficit", "national\\s*debt", "recession", "central\\s*bank", "cramer", "krugman", "yellen", "powell" ],
-            "display_name": "Macroeconomics",
+            "patterns": ["regulator", "rules*\\b", "laws*\\b", "policy", "policies", "guidelines*", "standards*", "compliance", "legislation", "restrictions*", "regulation", "enforcement", "regulatory", "compliance", "mandate", "directive", "framework", "license", "prohibition", "audit" ],
+            "display_name": "Regulation",
             "limit": 2,
             "overrides": {
                 "include": [],
