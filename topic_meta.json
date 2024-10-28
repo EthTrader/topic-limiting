@@ -91,7 +91,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["nft", "opean\\s*sea", "rarible", "looksrare", "crypto\\s*punk", "milady", "\\w+\\s*ape", "yuga\\s*labs", "bayc", "\\bmint\\b"],
+            "patterns": ["nft", "opean\\s*sea", "rarible", "looksrare", "crypto\\s*punk", "milady", "\\w+\\s*\\bape\\b", "yuga\\s*labs", "bayc", "\\bmint\\b"],
             "display_name": "NFT",
             "limit": 2,
             "overrides": {
