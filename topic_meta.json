@@ -11,7 +11,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["air\\s*drop", "farming", "drop[\\s\\w,.-]+claim", "claim[\\s\\w,.-]+drop" ],
+            "patterns": ["air\\s*drop", "farming", "drop[\\s\\w,.-]+\\bclaim\\b", "\\bclaim\\b[\\s\\w,.-]+drop" ],
             "display_name": "Airdrops",
             "limit": 2,
             "overrides": {
