@@ -1,5 +1,5 @@
 {
-    "last_update": 1730200203,
+    "last_update": 1730200502,
     "data": [
         {
             "display_name": "EthTrader",
@@ -97,10 +97,8 @@
         {
             "display_name": "Politics",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1geo363"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
@@ -116,8 +114,10 @@
         {
             "display_name": "Macroeconomics",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1ge0cau"
+            ],
             "community": "ethtrader"
         },
         {
