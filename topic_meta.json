@@ -181,7 +181,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["crypto exchange", "kyc", "\\b[cd]ex\\b", "coinbase", "sushi", "binance", "okx", "bybit", "upbit", "kraken", "gate\\.*\\s*io", "htx", "bitfinex", "kucoin", "mexc", "bitget", "crypto\\.com", "\\bcdc\\b", "bingx", "bitstamp", "bitmart", "gemini", "ftx", "mt\\.*\\s*gox", "blockfi", "celsius", "\\buni\\b", "uniswap", "pancake"],
+            "patterns": ["crypto exchange", "bitpanda", "kyc", "\\b[cd]ex\\b", "coinbase", "sushi", "binance", "okx", "bybit", "upbit", "kraken", "gate\\.*\\s*io", "htx", "bitfinex", "kucoin", "mexc", "bitget", "crypto\\.com", "\\bcdc\\b", "bingx", "bitstamp", "bitmart", "gemini", "ftx", "mt\\.*\\s*gox", "blockfi", "celsius", "\\buni\\b", "uniswap", "pancake"],
             "display_name": "Exchanges",
             "limit": 2,
             "overrides": {
