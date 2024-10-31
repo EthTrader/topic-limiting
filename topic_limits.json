@@ -1,5 +1,5 @@
 {
-    "last_update": 1730376003,
+    "last_update": 1730376303,
     "data": [
         {
             "display_name": "EthTrader",
@@ -20,10 +20,9 @@
         {
             "display_name": "ETF",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1ggarli",
-                "https://redd.it/1gg8v3q"
+                "https://redd.it/1ggarli"
             ],
             "community": "ethtrader"
         },
@@ -40,9 +39,10 @@
         {
             "display_name": "Chainlink",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1gg3t3d"
+                "https://redd.it/1gg3t3d",
+                "https://redd.it/1gfo78p"
             ],
             "community": "ethtrader"
         },
@@ -137,13 +137,14 @@
         {
             "display_name": "ETH Trading",
             "limit": 10,
-            "current": 5,
+            "current": 6,
             "submissions": [
                 "https://redd.it/1ggakq4",
                 "https://redd.it/1ggadcg",
                 "https://redd.it/1gg5nbw",
                 "https://redd.it/1gg355y",
-                "https://redd.it/1gflufx"
+                "https://redd.it/1gflufx",
+                "https://redd.it/1gfjadx"
             ],
             "community": "ethtrader"
         },
