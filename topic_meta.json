@@ -131,7 +131,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["\\bbrics\\b", "mortgage", "federal reserve", "fomc", "\\bfed\\b", "gdp", "inflation", "employment", "monetary", "economic", "interest rate", "deficit", "national\\s*debt", "recession", "central\\s*bank", "cramer", "krugman", "yellen", "powell" ],
+            "patterns": ["finance", "\\bbrics\\b", "mortgage", "federal reserve", "fomc", "\\bfed\\b", "gdp", "inflation", "employment", "monetary", "economic", "interest rate", "deficit", "national\\s*debt", "recession", "central\\s*bank", "cramer", "krugman", "yellen", "powell" ],
             "display_name": "Macroeconomics",
             "limit": 2,
             "overrides": {
@@ -181,7 +181,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["crypto exchange", "bitpanda", "kyc", "\\b[cd]ex\\b", "coinbase", "sushi", "binance", "okx", "bybit", "upbit", "kraken", "gate\\.*\\s*io", "htx", "bitfinex", "kucoin", "mexc", "bitget", "crypto\\.com", "\\bcdc\\b", "bingx", "bitstamp", "bitmart", "gemini", "ftx", "mt\\.*\\s*gox", "blockfi", "celsius", "\\buni\\b", "uniswap", "pancake"],
+            "patterns": ["robinhood", "crypto exchange", "bitpanda", "kyc", "\\b[cd]ex\\b", "coinbase", "sushi", "binance", "okx", "bybit", "upbit", "kraken", "gate\\.*\\s*io", "htx", "bitfinex", "kucoin", "mexc", "bitget", "crypto\\.com", "\\bcdc\\b", "bingx", "bitstamp", "bitmart", "gemini", "ftx", "mt\\.*\\s*gox", "blockfi", "celsius", "\\buni\\b", "uniswap", "pancake"],
             "display_name": "Exchanges",
             "limit": 2,
             "overrides": {
