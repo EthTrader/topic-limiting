@@ -161,7 +161,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["\\bdefi\\b", "decentralized finance", "total value locked", "tvl", "lend", "borrow", "liquidat", "impermanent loss"],
+            "patterns": ["polymarket", "\\bdefi\\b", "decentralized finance", "total value locked", "tvl", "lend", "borrow", "liquidat", "impermanent loss"],
             "display_name": "DeFi",
             "limit": 3,
             "overrides": {
