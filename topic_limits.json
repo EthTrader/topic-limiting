@@ -1,5 +1,5 @@
 {
-    "last_update": 1730375403,
+    "last_update": 1730375702,
     "data": [
         {
             "display_name": "EthTrader",
@@ -73,10 +73,9 @@
         {
             "display_name": "Meme Coins",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1ggajf2",
-                "https://redd.it/1gg7bk6"
+                "https://redd.it/1ggajf2"
             ],
             "community": "ethtrader"
         },
