@@ -1,5 +1,5 @@
 {
-    "last_update": 1730442902,
+    "last_update": 1730443203,
     "data": [
         {
             "display_name": "EthTrader",
@@ -80,8 +80,8 @@
             "limit": 2,
             "current": 2,
             "submissions": [
-                "https://redd.it/1ggygbr",
-                "https://redd.it/1ggyxvv"
+                "https://redd.it/1ggyxvv",
+                "https://redd.it/1ggygbr"
             ],
             "community": "ethtrader"
         },
@@ -95,8 +95,10 @@
         {
             "display_name": "Bridges",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1ggzbvd"
+            ],
             "community": "ethtrader"
         },
         {
@@ -164,12 +166,11 @@
         {
             "display_name": "Side Chains/Layer 2's",
             "limit": 8,
-            "current": 4,
+            "current": 3,
             "submissions": [
                 "https://redd.it/1ggym8j",
                 "https://redd.it/1gggopf",
-                "https://redd.it/1ggeqr5",
-                "https://redd.it/1gg91as"
+                "https://redd.it/1ggeqr5"
             ],
             "community": "ethtrader"
         },
