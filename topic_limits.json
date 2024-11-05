@@ -1,5 +1,5 @@
 {
-    "last_update": 1730808302,
+    "last_update": 1730808602,
     "data": [
         {
             "display_name": "EthTrader",
@@ -21,9 +21,10 @@
         {
             "display_name": "ETF",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1gk1c7c"
+                "https://redd.it/1gk1c7c",
+                "https://redd.it/1gjmaj5"
             ],
             "community": "ethtrader"
         },
@@ -109,10 +110,8 @@
         {
             "display_name": "Influencers/Celebrities",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1gk0i13"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
@@ -127,9 +126,8 @@
         {
             "display_name": "Regulation",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1gk2ofv",
                 "https://redd.it/1gk212v"
             ],
             "community": "ethtrader"
