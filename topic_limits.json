@@ -1,5 +1,5 @@
 {
-    "last_update": 1730898902,
+    "last_update": 1730899203,
     "data": [
         {
             "display_name": "EthTrader",
@@ -28,10 +28,9 @@
         {
             "display_name": "SEC",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1gktdz6",
-                "https://redd.it/1gk3c35"
+                "https://redd.it/1gktdz6"
             ],
             "community": "ethtrader"
         },
@@ -116,9 +115,11 @@
         {
             "display_name": "Macroeconomics",
             "limit": 2,
-            "current": 1,
+            "current": 3,
             "submissions": [
-                "https://redd.it/1gkpy54"
+                "https://redd.it/1gkpy54",
+                "https://redd.it/1gkyanv",
+                "https://redd.it/1gky82o"
             ],
             "community": "ethtrader"
         },
@@ -149,11 +150,10 @@
         {
             "display_name": "DeFi",
             "limit": 3,
-            "current": 3,
+            "current": 2,
             "submissions": [
                 "https://redd.it/1gkv7pe",
-                "https://redd.it/1gkt8jd",
-                "https://redd.it/1gk5bh6"
+                "https://redd.it/1gkt8jd"
             ],
             "community": "ethtrader"
         },
