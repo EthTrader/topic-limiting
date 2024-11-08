@@ -1,5 +1,5 @@
 {
-    "last_update": 1731042003,
+    "last_update": 1731042302,
     "data": [
         {
             "display_name": "EthTrader",
@@ -75,9 +75,10 @@
         {
             "display_name": "Meme Coins",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1gmapp0"
+                "https://redd.it/1gmapp0",
+                "https://redd.it/1gmaxs6"
             ],
             "community": "ethtrader"
         },
@@ -93,10 +94,8 @@
         {
             "display_name": "Bridges",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1glixl6"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
@@ -150,8 +149,9 @@
         {
             "display_name": "DeFi",
             "limit": 3,
-            "current": 1,
+            "current": 2,
             "submissions": [
+                "https://redd.it/1gmayqv",
                 "https://redd.it/1glqmr3"
             ],
             "community": "ethtrader"
