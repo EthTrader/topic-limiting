@@ -1,5 +1,5 @@
 {
-    "last_update": 1731318902,
+    "last_update": 1731319203,
     "data": [
         {
             "display_name": "EthTrader",
@@ -20,10 +20,9 @@
         {
             "display_name": "ETF",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1gol5nt",
-                "https://redd.it/1gnrgd8"
+                "https://redd.it/1gol5nt"
             ],
             "community": "ethtrader"
         },
@@ -37,9 +36,10 @@
         {
             "display_name": "Chainlink",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1gohxa7"
+                "https://redd.it/1gohxa7",
+                "https://redd.it/1goor05"
             ],
             "community": "ethtrader"
         },
@@ -104,9 +104,10 @@
         {
             "display_name": "Influencers/Celebrities",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1gocp7l"
+                "https://redd.it/1gocp7l",
+                "https://redd.it/1goosf6"
             ],
             "community": "ethtrader"
         },
