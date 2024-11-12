@@ -1,13 +1,14 @@
 {
-    "last_update": 1731414302,
+    "last_update": 1731414603,
     "data": [
         {
             "display_name": "EthTrader",
             "limit": 5,
-            "current": 2,
+            "current": 3,
             "submissions": [
                 "https://redd.it/1gjxgyx",
-                "https://redd.it/1gphx7j"
+                "https://redd.it/1gphx7j",
+                "https://redd.it/1gp35nj"
             ],
             "community": "ethtrader"
         },
@@ -23,10 +24,9 @@
         {
             "display_name": "ETF",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1gpinns",
-                "https://redd.it/1gpdyrx"
+                "https://redd.it/1gpinns"
             ],
             "community": "ethtrader"
         },
@@ -110,10 +110,9 @@
         {
             "display_name": "Influencers/Celebrities",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1gpf9xb",
-                "https://redd.it/1gpdyf0"
+                "https://redd.it/1gpf9xb"
             ],
             "community": "ethtrader"
         },
@@ -164,8 +163,8 @@
             "current": 5,
             "submissions": [
                 "https://redd.it/1gpia8a",
-                "https://redd.it/1gpitqu",
                 "https://redd.it/1gpi6pr",
+                "https://redd.it/1gpitqu",
                 "https://redd.it/1gpfhk0",
                 "https://redd.it/1gpf2nf"
             ],
@@ -174,10 +173,9 @@
         {
             "display_name": "Exchanges",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1gpglbs",
-                "https://redd.it/1gpekih"
+                "https://redd.it/1gpglbs"
             ],
             "community": "ethtrader"
         }
