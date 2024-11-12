@@ -1,5 +1,5 @@
 {
-    "last_update": 1731414902,
+    "last_update": 1731415203,
     "data": [
         {
             "display_name": "EthTrader",
@@ -24,9 +24,10 @@
         {
             "display_name": "ETF",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1gpinns"
+                "https://redd.it/1gpinns",
+                "https://redd.it/1gp43c7"
             ],
             "community": "ethtrader"
         },
@@ -77,9 +78,10 @@
         {
             "display_name": "Meme Coins",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1gpiqc1"
+                "https://redd.it/1gpiqc1",
+                "https://redd.it/1gpa8vy"
             ],
             "community": "ethtrader"
         },
@@ -110,10 +112,8 @@
         {
             "display_name": "Influencers/Celebrities",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1gpf9xb"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
@@ -160,12 +160,11 @@
         {
             "display_name": "Side Chains/Layer 2's",
             "limit": 8,
-            "current": 5,
+            "current": 4,
             "submissions": [
                 "https://redd.it/1gpia8a",
                 "https://redd.it/1gpi6pr",
                 "https://redd.it/1gpitqu",
-                "https://redd.it/1gpfhk0",
                 "https://redd.it/1gpf2nf"
             ],
             "community": "ethtrader"
