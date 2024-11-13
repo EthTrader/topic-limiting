@@ -1,5 +1,5 @@
 {
-    "last_update": 1731494703,
+    "last_update": 1731495002,
     "data": [
         {
             "display_name": "EthTrader",
@@ -152,11 +152,10 @@
         {
             "display_name": "Side Chains/Layer 2's",
             "limit": 8,
-            "current": 3,
+            "current": 2,
             "submissions": [
                 "https://redd.it/1gq6cpd",
-                "https://redd.it/1gpia8a",
-                "https://redd.it/1gpitqu"
+                "https://redd.it/1gpia8a"
             ],
             "community": "ethtrader"
         },
@@ -165,8 +164,8 @@
             "limit": 2,
             "current": 2,
             "submissions": [
-                "https://redd.it/1gq5ekz",
-                "https://redd.it/1gq7dwr"
+                "https://redd.it/1gq7dwr",
+                "https://redd.it/1gq5ekz"
             ],
             "community": "ethtrader"
         }
