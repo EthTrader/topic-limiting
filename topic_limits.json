@@ -1,5 +1,5 @@
 {
-    "last_update": 1731516003,
+    "last_update": 1731516302,
     "data": [
         {
             "display_name": "EthTrader",
@@ -114,19 +114,19 @@
         {
             "display_name": "Influencers/Celebrities",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1gqc129"
+                "https://redd.it/1gqc129",
+                "https://redd.it/1gqh7qj"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "Macroeconomics",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1gq9l0d",
-                "https://redd.it/1gq3i7j"
+                "https://redd.it/1gq9l0d"
             ],
             "community": "ethtrader"
         },
@@ -144,8 +144,8 @@
             "limit": 10,
             "current": 3,
             "submissions": [
-                "https://redd.it/1gq7weh",
                 "https://redd.it/1gqbixk",
+                "https://redd.it/1gq7weh",
                 "https://redd.it/1gq6wzg"
             ],
             "community": "ethtrader"
@@ -164,8 +164,8 @@
             "limit": 8,
             "current": 2,
             "submissions": [
-                "https://redd.it/1gqam94",
-                "https://redd.it/1gqd2qk"
+                "https://redd.it/1gqd2qk",
+                "https://redd.it/1gqam94"
             ],
             "community": "ethtrader"
         },
