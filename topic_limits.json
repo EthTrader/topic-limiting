@@ -1,5 +1,5 @@
 {
-    "last_update": 1731685204,
+    "last_update": 1731685502,
     "data": [
         {
             "display_name": "EthTrader",
@@ -40,8 +40,10 @@
         {
             "display_name": "Chainlink",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1grlrh8"
+            ],
             "community": "ethtrader"
         },
         {
@@ -137,12 +139,12 @@
             "limit": 10,
             "current": 6,
             "submissions": [
-                "https://redd.it/1grv3of",
                 "https://redd.it/1grpyvj",
                 "https://redd.it/1growii",
+                "https://redd.it/1grv3of",
                 "https://redd.it/1grwa43",
-                "https://redd.it/1gryxg3",
-                "https://redd.it/1grrlfk"
+                "https://redd.it/1grrlfk",
+                "https://redd.it/1gryxg3"
             ],
             "community": "ethtrader"
         },
@@ -152,8 +154,8 @@
             "current": 3,
             "submissions": [
                 "https://redd.it/1grpkr6",
-                "https://redd.it/1grtz7b",
-                "https://redd.it/1grru5l"
+                "https://redd.it/1grru5l",
+                "https://redd.it/1grtz7b"
             ],
             "community": "ethtrader"
         },
