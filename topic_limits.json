@@ -1,5 +1,5 @@
 {
-    "last_update": 1731744003,
+    "last_update": 1731744302,
     "data": [
         {
             "display_name": "EthTrader",
@@ -21,10 +21,9 @@
         {
             "display_name": "ETF",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1gsah3u",
-                "https://redd.it/1grome5"
+                "https://redd.it/1gsah3u"
             ],
             "community": "ethtrader"
         },
@@ -43,8 +42,8 @@
             "limit": 2,
             "current": 2,
             "submissions": [
-                "https://redd.it/1gseeee",
-                "https://redd.it/1gsd7iq"
+                "https://redd.it/1gsd7iq",
+                "https://redd.it/1gseeee"
             ],
             "community": "ethtrader"
         },
@@ -98,9 +97,10 @@
         {
             "display_name": "Politics",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1gsie9e"
+                "https://redd.it/1gsie9e",
+                "https://redd.it/1gsine6"
             ],
             "community": "ethtrader"
         },
@@ -132,11 +132,12 @@
         {
             "display_name": "ETH Trading",
             "limit": 10,
-            "current": 8,
+            "current": 9,
             "submissions": [
                 "https://redd.it/1gsg619",
                 "https://redd.it/1gsg1jp",
                 "https://redd.it/1gsfbhp",
+                "https://redd.it/1gsioqu",
                 "https://redd.it/1gryxg3",
                 "https://redd.it/1grpyvj",
                 "https://redd.it/1growii",
