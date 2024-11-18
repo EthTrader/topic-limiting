@@ -61,7 +61,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["\\b[re]*stak((e)|(ing))", "\\blido\\b", "w*steth", "\\bldo\\b", "\\brpl\\b", "rocket\\s*pool", "\\breth\\b", "stakewise", "tenderize", "ankr", "frax", "restak", "ether[\\.]*fi", "ethfi", "w*eeth", "renzo", "ezeth", "kelp", "w*rseth", "swell", "r*sweth", "eigen", "lrts*"],
+            "patterns": ["\\b[re]*-*stak((e)|(ing))", "\\blido\\b", "w*steth", "\\bldo\\b", "\\brpl\\b", "rocket\\s*pool", "\\breth\\b", "stakewise", "tenderize", "ankr", "frax", "restak", "ether[\\.]*fi", "ethfi", "w*eeth", "renzo", "ezeth", "kelp", "w*rseth", "swell", "r*sweth", "eigen", "lrts*"],
             "display_name": "Staking/Restaking",
             "limit": 2,
             "overrides": {
