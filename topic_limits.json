@@ -1,5 +1,5 @@
 {
-    "last_update": 1732095602,
+    "last_update": 1732095903,
     "data": [
         {
             "display_name": "EthTrader",
@@ -75,8 +75,9 @@
         {
             "display_name": "Meme Coins",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
+                "https://redd.it/1gvluul",
                 "https://redd.it/1gvgezy"
             ],
             "community": "ethtrader"
@@ -149,11 +150,10 @@
         {
             "display_name": "DeFi",
             "limit": 3,
-            "current": 3,
+            "current": 2,
             "submissions": [
                 "https://redd.it/1gvhcqt",
-                "https://redd.it/1gvffte",
-                "https://redd.it/1gv8xz0"
+                "https://redd.it/1gvffte"
             ],
             "community": "ethtrader"
         },
