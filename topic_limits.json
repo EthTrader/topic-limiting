@@ -1,5 +1,5 @@
 {
-    "last_update": 1732207502,
+    "last_update": 1732207802,
     "data": [
         {
             "display_name": "EthTrader",
@@ -131,10 +131,11 @@
         {
             "display_name": "ETH Trading",
             "limit": 10,
-            "current": 5,
+            "current": 6,
             "submissions": [
                 "https://redd.it/1gwd59h",
                 "https://redd.it/1gwiici",
+                "https://redd.it/1gwjuip",
                 "https://redd.it/1gwbzjg",
                 "https://redd.it/1gw5f6y",
                 "https://redd.it/1gw5ovj"
@@ -144,11 +145,10 @@
         {
             "display_name": "DeFi",
             "limit": 3,
-            "current": 3,
+            "current": 2,
             "submissions": [
                 "https://redd.it/1gwdxv2",
-                "https://redd.it/1gw9fpu",
-                "https://redd.it/1gw658h"
+                "https://redd.it/1gw9fpu"
             ],
             "community": "ethtrader"
         },
@@ -159,8 +159,8 @@
             "submissions": [
                 "https://redd.it/1gwi9ak",
                 "https://redd.it/1gwip2h",
-                "https://redd.it/1gwjjaz",
-                "https://redd.it/1gwarr2"
+                "https://redd.it/1gwarr2",
+                "https://redd.it/1gwjjaz"
             ],
             "community": "ethtrader"
         },
