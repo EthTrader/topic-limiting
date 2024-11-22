@@ -1,5 +1,5 @@
 {
-    "last_update": 1732282203,
+    "last_update": 1732282503,
     "data": [
         {
             "display_name": "EthTrader",
@@ -133,7 +133,7 @@
         {
             "display_name": "ETH Trading",
             "limit": 10,
-            "current": 9,
+            "current": 8,
             "submissions": [
                 "https://redd.it/1gx10a4",
                 "https://redd.it/1gx3gzh",
@@ -142,8 +142,7 @@
                 "https://redd.it/1gwz09n",
                 "https://redd.it/1gwus1r",
                 "https://redd.it/1gwmtac",
-                "https://redd.it/1gwiici",
-                "https://redd.it/1gwd59h"
+                "https://redd.it/1gwiici"
             ],
             "community": "ethtrader"
         },
