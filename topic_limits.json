@@ -1,5 +1,5 @@
 {
-    "last_update": 1732509003,
+    "last_update": 1732509303,
     "data": [
         {
             "display_name": "EthTrader",
@@ -40,10 +40,9 @@
         {
             "display_name": "Chainlink",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1gz8swd",
-                "https://redd.it/1gylkw2"
+                "https://redd.it/1gz8swd"
             ],
             "community": "ethtrader"
         },
@@ -52,15 +51,16 @@
             "limit": 2,
             "current": 1,
             "submissions": [
-                "https://redd.it/1gykhz3"
+                "https://redd.it/1gzaq4r"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "Staking/Restaking",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
+                "https://redd.it/1gzankg",
                 "https://redd.it/1gyrhn5"
             ],
             "community": "ethtrader"
