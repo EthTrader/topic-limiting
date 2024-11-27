@@ -1,5 +1,5 @@
 {
-    "last_update": 1732706402,
+    "last_update": 1732706702,
     "data": [
         {
             "display_name": "EthTrader",
@@ -25,8 +25,8 @@
             "limit": 2,
             "current": 2,
             "submissions": [
-                "https://redd.it/1h0y1ld",
-                "https://redd.it/1h11yt8"
+                "https://redd.it/1h11yt8",
+                "https://redd.it/1h0y1ld"
             ],
             "community": "ethtrader"
         },
@@ -51,8 +51,8 @@
             "limit": 2,
             "current": 2,
             "submissions": [
-                "https://redd.it/1h0to31",
-                "https://redd.it/1h120jn"
+                "https://redd.it/1h120jn",
+                "https://redd.it/1h0to31"
             ],
             "community": "ethtrader"
         },
@@ -170,8 +170,10 @@
         {
             "display_name": "Exchanges",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1h124qx"
+            ],
             "community": "ethtrader"
         }
     ]
