@@ -1,22 +1,23 @@
 {
-    "last_update": 1732814403,
+    "last_update": 1732814702,
     "data": [
         {
             "display_name": "EthTrader",
             "limit": 5,
-            "current": 3,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1gzy5zx",
-                "https://redd.it/1h1y3kz",
-                "https://redd.it/1h20u5o"
+                "https://redd.it/1h20u5o",
+                "https://redd.it/1h1y3kz"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "Airdrops",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1h20vkx"
+            ],
             "community": "ethtrader"
         },
         {
@@ -109,10 +110,8 @@
         {
             "display_name": "Influencers/Celebrities",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1h13iz3"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
@@ -128,8 +127,9 @@
         {
             "display_name": "Regulation",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
+                "https://redd.it/1h1toih",
                 "https://redd.it/1h1o04a"
             ],
             "community": "ethtrader"
