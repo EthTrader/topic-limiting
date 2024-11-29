@@ -1,5 +1,5 @@
 {
-    "last_update": 1732872602,
+    "last_update": 1732872903,
     "data": [
         {
             "display_name": "EthTrader",
@@ -14,10 +14,9 @@
         {
             "display_name": "Airdrops",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1h2hls3",
-                "https://redd.it/1h20vkx"
+                "https://redd.it/1h2hls3"
             ],
             "community": "ethtrader"
         },
@@ -161,8 +160,10 @@
         {
             "display_name": "Side Chains/Layer 2's",
             "limit": 8,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1h2i5v4"
+            ],
             "community": "ethtrader"
         },
         {
