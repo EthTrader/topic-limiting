@@ -1,5 +1,5 @@
 {
-    "last_update": 1733059502,
+    "last_update": 1733059803,
     "data": [
         {
             "display_name": "EthTrader",
@@ -21,9 +21,10 @@
         {
             "display_name": "ETF",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1h415v3"
+                "https://redd.it/1h415v3",
+                "https://redd.it/1h3bu42"
             ],
             "community": "ethtrader"
         },
@@ -72,9 +73,8 @@
         {
             "display_name": "Meme Coins",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1h3u8t0",
                 "https://redd.it/1h3wvmh"
             ],
             "community": "ethtrader"
@@ -82,9 +82,10 @@
         {
             "display_name": "NFT",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1h406wg"
+                "https://redd.it/1h406wg",
+                "https://redd.it/1h3clzq"
             ],
             "community": "ethtrader"
         },
