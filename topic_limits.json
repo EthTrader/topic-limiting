@@ -1,5 +1,5 @@
 {
-    "last_update": 1733405102,
+    "last_update": 1733405403,
     "data": [
         {
             "display_name": "EthTrader",
@@ -29,8 +29,10 @@
         {
             "display_name": "SEC",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1h6nkcv"
+            ],
             "community": "ethtrader"
         },
         {
@@ -105,8 +107,10 @@
         {
             "display_name": "Influencers/Celebrities",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1h6wagh"
+            ],
             "community": "ethtrader"
         },
         {
@@ -131,13 +135,15 @@
         {
             "display_name": "ETH Trading",
             "limit": 10,
-            "current": 5,
+            "current": 7,
             "submissions": [
                 "https://redd.it/1h70mnu",
                 "https://redd.it/1h6kqgf",
                 "https://redd.it/1h6btyv",
                 "https://redd.it/1h6zi0j",
-                "https://redd.it/1h71huh"
+                "https://redd.it/1h71huh",
+                "https://redd.it/1h6fbk8",
+                "https://redd.it/1h6dh17"
             ],
             "community": "ethtrader"
         },
@@ -153,9 +159,8 @@
         {
             "display_name": "Side Chains/Layer 2's",
             "limit": 8,
-            "current": 3,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1h75ypr",
                 "https://redd.it/1h755zq",
                 "https://redd.it/1h74c2o"
             ],
