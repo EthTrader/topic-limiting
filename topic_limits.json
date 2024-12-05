@@ -1,5 +1,5 @@
 {
-    "last_update": 1733376003,
+    "last_update": 1733376302,
     "data": [
         {
             "display_name": "EthTrader",
@@ -49,10 +49,9 @@
         {
             "display_name": "Stables",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1h6xc0k",
-                "https://redd.it/1h6cxjx"
+                "https://redd.it/1h6xc0k"
             ],
             "community": "ethtrader"
         },
@@ -66,8 +65,9 @@
         {
             "display_name": "Wallets",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
+                "https://redd.it/1h71hfl",
                 "https://redd.it/1h6gmgf"
             ],
             "community": "ethtrader"
@@ -75,10 +75,9 @@
         {
             "display_name": "Meme Coins",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1h659d3",
-                "https://redd.it/1h6f20a"
+                "https://redd.it/1h659d3"
             ],
             "community": "ethtrader"
         },
@@ -140,12 +139,12 @@
             "current": 10,
             "submissions": [
                 "https://redd.it/1h6kqgf",
-                "https://redd.it/1h6btyv",
                 "https://redd.it/1h70mnu",
+                "https://redd.it/1h6btyv",
                 "https://redd.it/1h6zi0j",
+                "https://redd.it/1h71huh",
                 "https://redd.it/1h6fbk8",
                 "https://redd.it/1h6dh17",
-                "https://redd.it/1h71huh",
                 "https://redd.it/1h69t0g",
                 "https://redd.it/1h6cm2n",
                 "https://redd.it/1h6a3e4"
