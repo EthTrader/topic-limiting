@@ -1,5 +1,5 @@
 {
-    "last_update": 1733672102,
+    "last_update": 1733672403,
     "data": [
         {
             "display_name": "EthTrader",
@@ -40,9 +40,10 @@
         {
             "display_name": "Chainlink",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1h9iwm4"
+                "https://redd.it/1h9iwm4",
+                "https://redd.it/1h8r51a"
             ],
             "community": "ethtrader"
         },
@@ -93,8 +94,10 @@
         {
             "display_name": "Bridges",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1h8qf7c"
+            ],
             "community": "ethtrader"
         },
         {
@@ -110,8 +113,10 @@
         {
             "display_name": "Influencers/Celebrities",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1h9gxw2"
+            ],
             "community": "ethtrader"
         },
         {
@@ -137,11 +142,10 @@
         {
             "display_name": "ETH Trading",
             "limit": 10,
-            "current": 3,
+            "current": 2,
             "submissions": [
                 "https://redd.it/1h99ipd",
-                "https://redd.it/1h8t9q2",
-                "https://redd.it/1h9l3gs"
+                "https://redd.it/1h8t9q2"
             ],
             "community": "ethtrader"
         },
@@ -166,9 +170,10 @@
         {
             "display_name": "Exchanges",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1h9a73d"
+                "https://redd.it/1h9a73d",
+                "https://redd.it/1h8xhtn"
             ],
             "community": "ethtrader"
         }
