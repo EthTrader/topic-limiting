@@ -1,5 +1,5 @@
 {
-    "last_update": 1734234902,
+    "last_update": 1734235203,
     "data": [
         {
             "display_name": "EthTrader",
@@ -106,10 +106,8 @@
         {
             "display_name": "Influencers/Celebrities",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1hdalxj"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
@@ -146,19 +144,19 @@
         {
             "display_name": "DeFi",
             "limit": 3,
-            "current": 3,
+            "current": 2,
             "submissions": [
                 "https://redd.it/1hdzwpf",
-                "https://redd.it/1hdqsgt",
-                "https://redd.it/1hdessu"
+                "https://redd.it/1hdqsgt"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "Side Chains/Layer 2's",
             "limit": 8,
-            "current": 3,
+            "current": 4,
             "submissions": [
+                "https://redd.it/1hekdwp",
                 "https://redd.it/1he06yw",
                 "https://redd.it/1hdxeqw",
                 "https://redd.it/1hdrt84"
@@ -168,8 +166,9 @@
         {
             "display_name": "Exchanges",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
+                "https://redd.it/1hekcrt",
                 "https://redd.it/1hdwvjs"
             ],
             "community": "ethtrader"
