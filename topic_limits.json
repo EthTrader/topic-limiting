@@ -1,13 +1,12 @@
 {
-    "last_update": 1734438603,
+    "last_update": 1734438902,
     "data": [
         {
             "display_name": "EthTrader",
             "limit": 5,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1hflfut",
-                "https://redd.it/1hfiy9y"
+                "https://redd.it/1hflfut"
             ],
             "community": "ethtrader"
         },
@@ -61,11 +60,10 @@
         {
             "display_name": "Staking/Restaking",
             "limit": 2,
-            "current": 3,
+            "current": 2,
             "submissions": [
                 "https://redd.it/1hg0gb1",
-                "https://redd.it/1hg0gf3",
-                "https://redd.it/1hffdd0"
+                "https://redd.it/1hg0gf3"
             ],
             "community": "ethtrader"
         },
@@ -171,8 +169,10 @@
         {
             "display_name": "Exchanges",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1hg9m5b"
+            ],
             "community": "ethtrader"
         }
     ]
