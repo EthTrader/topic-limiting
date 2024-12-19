@@ -1,5 +1,5 @@
 {
-    "last_update": 1734625204,
+    "last_update": 1734625503,
     "data": [
         {
             "display_name": "EthTrader",
@@ -15,9 +15,10 @@
         {
             "display_name": "Airdrops",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1hhlw3q"
+                "https://redd.it/1hhlw3q",
+                "https://redd.it/1hgwsay"
             ],
             "community": "ethtrader"
         },
@@ -130,10 +131,9 @@
         {
             "display_name": "Regulation",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1hhkfl5",
-                "https://redd.it/1hhtzy8"
+                "https://redd.it/1hhkfl5"
             ],
             "community": "ethtrader"
         },
