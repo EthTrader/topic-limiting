@@ -1,5 +1,5 @@
 {
-    "last_update": 1735199402,
+    "last_update": 1735199702,
     "data": [
         {
             "display_name": "EthTrader",
@@ -126,8 +126,9 @@
         {
             "display_name": "Regulation",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
+                "https://redd.it/1hmjrvr",
                 "https://redd.it/1hm3ecw"
             ],
             "community": "ethtrader"
