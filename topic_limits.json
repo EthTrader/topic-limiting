@@ -1,14 +1,13 @@
 {
-    "last_update": 1735287003,
+    "last_update": 1735287303,
     "data": [
         {
             "display_name": "EthTrader",
             "limit": 5,
-            "current": 3,
+            "current": 2,
             "submissions": [
                 "https://redd.it/1hhxi99",
-                "https://redd.it/1hmq8cq",
-                "https://redd.it/1hm0mju"
+                "https://redd.it/1hmq8cq"
             ],
             "community": "ethtrader"
         },
@@ -73,9 +72,10 @@
         {
             "display_name": "Meme Coins",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1hn9y54"
+                "https://redd.it/1hn9y54",
+                "https://redd.it/1hnaby2"
             ],
             "community": "ethtrader"
         },
