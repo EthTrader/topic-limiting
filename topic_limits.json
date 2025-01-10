@@ -1,5 +1,5 @@
 {
-    "last_update": 1736510702,
+    "last_update": 1736511002,
     "data": [
         {
             "display_name": "EthTrader",
@@ -59,9 +59,8 @@
         {
             "display_name": "Staking/Restaking",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1hxu7hl",
                 "https://redd.it/1hxehgf"
             ],
             "community": "ethtrader"
@@ -86,10 +85,8 @@
         {
             "display_name": "NFT",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1hxy4xd"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
@@ -102,9 +99,10 @@
         {
             "display_name": "Politics",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1hxqad8"
+                "https://redd.it/1hxqad8",
+                "https://redd.it/1hwg7lj"
             ],
             "community": "ethtrader"
         },
