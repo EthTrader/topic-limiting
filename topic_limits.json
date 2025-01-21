@@ -1,5 +1,5 @@
 {
-    "last_update": 1737440102,
+    "last_update": 1737440402,
     "data": [
         {
             "display_name": "EthTrader",
@@ -83,8 +83,10 @@
         {
             "display_name": "NFT",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1i6ccuw"
+            ],
             "community": "ethtrader"
         },
         {
@@ -109,10 +111,9 @@
         {
             "display_name": "Influencers/Celebrities",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1i5377c",
-                "https://redd.it/1i4pun2"
+                "https://redd.it/1i5377c"
             ],
             "community": "ethtrader"
         },
