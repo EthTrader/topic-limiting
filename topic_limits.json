@@ -1,15 +1,14 @@
 {
-    "last_update": 1737693302,
+    "last_update": 1737693603,
     "data": [
         {
             "display_name": "EthTrader",
             "limit": 5,
-            "current": 4,
+            "current": 3,
             "submissions": [
                 "https://redd.it/1i8aj9z",
                 "https://redd.it/1i87fsj",
-                "https://redd.it/1i82iya",
-                "https://redd.it/1i7ea8u"
+                "https://redd.it/1i82iya"
             ],
             "community": "ethtrader"
         },
@@ -49,8 +48,10 @@
         {
             "display_name": "Stables",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1i8ngls"
+            ],
             "community": "ethtrader"
         },
         {
