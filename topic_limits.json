@@ -1,5 +1,5 @@
 {
-    "last_update": 1739079603,
+    "last_update": 1739079902,
     "data": [
         {
             "display_name": "EthTrader",
@@ -39,8 +39,9 @@
         {
             "display_name": "Chainlink",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
+                "https://redd.it/1il7v5y",
                 "https://redd.it/1ijog8h"
             ],
             "community": "ethtrader"
