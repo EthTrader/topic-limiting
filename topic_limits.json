@@ -1,13 +1,14 @@
 {
-    "last_update": 1739884502,
+    "last_update": 1739884806,
     "data": [
         {
             "display_name": "EthTrader",
             "limit": 5,
-            "current": 2,
+            "current": 3,
             "submissions": [
                 "https://redd.it/1irz9vp",
-                "https://redd.it/1irdwix"
+                "https://redd.it/1irdwix",
+                "https://redd.it/1iqt290"
             ],
             "community": "ethtrader"
         },
@@ -21,9 +22,8 @@
         {
             "display_name": "ETF",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1is3oil",
                 "https://redd.it/1irb018"
             ],
             "community": "ethtrader"
@@ -91,10 +91,8 @@
         {
             "display_name": "Bridges",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1is0428"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
