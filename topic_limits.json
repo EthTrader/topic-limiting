@@ -1,14 +1,13 @@
 {
-    "last_update": 1740374402,
+    "last_update": 1740374702,
     "data": [
         {
             "display_name": "EthTrader",
             "limit": 5,
-            "current": 3,
+            "current": 2,
             "submissions": [
                 "https://redd.it/1iw9gti",
-                "https://redd.it/1iw31dl",
-                "https://redd.it/1iukgnw"
+                "https://redd.it/1iw31dl"
             ],
             "community": "ethtrader"
         },
@@ -128,8 +127,10 @@
         {
             "display_name": "Regulation",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1iwulwr"
+            ],
             "community": "ethtrader"
         },
         {
@@ -137,9 +138,9 @@
             "limit": 10,
             "current": 4,
             "submissions": [
-                "https://redd.it/1iwrk17",
                 "https://redd.it/1iwuea7",
                 "https://redd.it/1iwudgy",
+                "https://redd.it/1iwrk17",
                 "https://redd.it/1iw6lri"
             ],
             "community": "ethtrader"
@@ -167,8 +168,9 @@
         {
             "display_name": "Exchanges",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
+                "https://redd.it/1iwuk6y",
                 "https://redd.it/1ivc59s"
             ],
             "community": "ethtrader"
