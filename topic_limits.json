@@ -1,5 +1,5 @@
 {
-    "last_update": 1740968402,
+    "last_update": 1740968702,
     "data": [
         {
             "display_name": "EthTrader",
@@ -28,10 +28,8 @@
         {
             "display_name": "SEC",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1izrt38"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
