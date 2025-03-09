@@ -1,5 +1,5 @@
 {
-    "last_update": 1741506003,
+    "last_update": 1741506302,
     "data": [
         {
             "display_name": "EthTrader",
@@ -69,10 +69,9 @@
         {
             "display_name": "Meme Coins",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1j70v9s",
-                "https://redd.it/1j5h20m"
+                "https://redd.it/1j70v9s"
             ],
             "community": "ethtrader"
         },
@@ -156,9 +155,10 @@
         {
             "display_name": "Side Chains/Layer 2's",
             "limit": 8,
-            "current": 3,
+            "current": 4,
             "submissions": [
                 "https://redd.it/1j71rw6",
+                "https://redd.it/1j72lrb",
                 "https://redd.it/1j6h6zb",
                 "https://redd.it/1j6awvh"
             ],
