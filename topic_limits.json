@@ -1,5 +1,5 @@
 {
-    "last_update": 1742470204,
+    "last_update": 1742470502,
     "data": [
         {
             "display_name": "EthTrader",
@@ -79,8 +79,10 @@
         {
             "display_name": "NFT",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1jfmqle"
+            ],
             "community": "ethtrader"
         },
         {
@@ -113,10 +115,9 @@
         {
             "display_name": "Macroeconomics",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1jf4dd2",
-                "https://redd.it/1jdzqzw"
+                "https://redd.it/1jf4dd2"
             ],
             "community": "ethtrader"
         },
