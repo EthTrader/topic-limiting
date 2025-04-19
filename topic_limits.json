@@ -1,5 +1,5 @@
 {
-    "last_update": 1745063402,
+    "last_update": 1745063702,
     "data": [
         {
             "display_name": "EthTrader",
@@ -73,9 +73,8 @@
         {
             "display_name": "Meme Coins",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1k2pzja",
                 "https://redd.it/1k1y3v1"
             ],
             "community": "ethtrader"
@@ -107,10 +106,8 @@
         {
             "display_name": "Influencers/Celebrities",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1k2sabn"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
@@ -169,9 +166,10 @@
         {
             "display_name": "Exchanges",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1k1xddf"
+                "https://redd.it/1k1xddf",
+                "https://redd.it/1k14mb0"
             ],
             "community": "ethtrader"
         }
