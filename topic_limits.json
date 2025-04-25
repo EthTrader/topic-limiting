@@ -1,5 +1,5 @@
 {
-    "last_update": 1745573102,
+    "last_update": 1745573403,
     "data": [
         {
             "display_name": "EthTrader",
@@ -116,26 +116,28 @@
         {
             "display_name": "Macroeconomics",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1k78flv",
-                "https://redd.it/1k7gbaf"
+                "https://redd.it/1k78flv"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "Regulation",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1k5upcq"
+            ],
             "community": "ethtrader"
         },
         {
             "display_name": "ETH Trading",
             "limit": 10,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1k5obek"
+                "https://redd.it/1k5obek",
+                "https://redd.it/1k5e705"
             ],
             "community": "ethtrader"
         },
