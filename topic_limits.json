@@ -1,5 +1,5 @@
 {
-    "last_update": 1746426003,
+    "last_update": 1746426302,
     "data": [
         {
             "display_name": "EthTrader",
@@ -145,10 +145,9 @@
         {
             "display_name": "DeFi",
             "limit": 3,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1kcvsty",
-                "https://redd.it/1kcuwrw"
+                "https://redd.it/1kcvsty"
             ],
             "community": "ethtrader"
         },
