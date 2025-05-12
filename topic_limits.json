@@ -1,5 +1,5 @@
 {
-    "last_update": 1747050603,
+    "last_update": 1747050902,
     "data": [
         {
             "display_name": "EthTrader",
@@ -21,8 +21,9 @@
         {
             "display_name": "ETF",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
+                "https://redd.it/1kkqjiu",
                 "https://redd.it/1kj210z"
             ],
             "community": "ethtrader"
@@ -56,11 +57,10 @@
         {
             "display_name": "Staking/Restaking",
             "limit": 2,
-            "current": 3,
+            "current": 2,
             "submissions": [
                 "https://redd.it/1kkk5uk",
-                "https://redd.it/1kkk7bb",
-                "https://redd.it/1kj1woe"
+                "https://redd.it/1kkk7bb"
             ],
             "community": "ethtrader"
         },
