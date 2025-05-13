@@ -1,5 +1,5 @@
 {
-    "last_update": 1747140902,
+    "last_update": 1747141203,
     "data": [
         {
             "display_name": "EthTrader",
@@ -16,8 +16,10 @@
         {
             "display_name": "Airdrops",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1kllbba"
+            ],
             "community": "ethtrader"
         },
         {
@@ -115,8 +117,10 @@
         {
             "display_name": "Macroeconomics",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1kll7yw"
+            ],
             "community": "ethtrader"
         },
         {
@@ -132,15 +136,13 @@
         {
             "display_name": "ETH Trading",
             "limit": 10,
-            "current": 7,
+            "current": 5,
             "submissions": [
                 "https://redd.it/1kldp2k",
                 "https://redd.it/1klgtgj",
                 "https://redd.it/1klhhno",
                 "https://redd.it/1kkoock",
-                "https://redd.it/1kjuafi",
-                "https://redd.it/1kjstpa",
-                "https://redd.it/1kjgklw"
+                "https://redd.it/1kjuafi"
             ],
             "community": "ethtrader"
         },
@@ -157,10 +159,11 @@
         {
             "display_name": "Side Chains/Layer 2's",
             "limit": 8,
-            "current": 4,
+            "current": 5,
             "submissions": [
                 "https://redd.it/1klex6x",
                 "https://redd.it/1klfz6k",
+                "https://redd.it/1kll848",
                 "https://redd.it/1kk24rp",
                 "https://redd.it/1kjwpcf"
             ],
