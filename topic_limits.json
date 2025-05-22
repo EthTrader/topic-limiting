@@ -1,5 +1,5 @@
 {
-    "last_update": 1747902902,
+    "last_update": 1747903202,
     "data": [
         {
             "display_name": "EthTrader",
@@ -94,8 +94,10 @@
         {
             "display_name": "Bridges",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1kslpu2"
+            ],
             "community": "ethtrader"
         },
         {
@@ -111,10 +113,8 @@
         {
             "display_name": "Influencers/Celebrities",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1kq4m6e"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
@@ -138,8 +138,9 @@
         {
             "display_name": "ETH Trading",
             "limit": 10,
-            "current": 3,
+            "current": 4,
             "submissions": [
+                "https://redd.it/1kslr7i",
                 "https://redd.it/1kqz3ep",
                 "https://redd.it/1kqyow9",
                 "https://redd.it/1kq8z7k"
