@@ -1,16 +1,15 @@
 {
-    "last_update": 1748516703,
+    "last_update": 1748517002,
     "data": [
         {
             "display_name": "EthTrader",
             "limit": 5,
-            "current": 5,
+            "current": 4,
             "submissions": [
                 "https://redd.it/1kuq1v0",
                 "https://redd.it/1ky6kgf",
                 "https://redd.it/1ky2xhg",
-                "https://redd.it/1kxhgzf",
-                "https://redd.it/1kvn10o"
+                "https://redd.it/1kxhgzf"
             ],
             "community": "ethtrader"
         },
@@ -38,8 +37,8 @@
             "limit": 2,
             "current": 2,
             "submissions": [
-                "https://redd.it/1ky4bsi",
-                "https://redd.it/1ky74zj"
+                "https://redd.it/1ky74zj",
+                "https://redd.it/1ky4bsi"
             ],
             "community": "ethtrader"
         },
@@ -80,8 +79,10 @@
         {
             "display_name": "Meme Coins",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1ky81ca"
+            ],
             "community": "ethtrader"
         },
         {
@@ -121,8 +122,10 @@
         {
             "display_name": "Macroeconomics",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1ky7z1j"
+            ],
             "community": "ethtrader"
         },
         {
