@@ -1,5 +1,5 @@
 {
-    "last_update": 1749794102,
+    "last_update": 1749794403,
     "data": [
         {
             "display_name": "EthTrader",
@@ -24,8 +24,9 @@
         {
             "display_name": "ETF",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
+                "https://redd.it/1la8hxj",
                 "https://redd.it/1l8wtlf"
             ],
             "community": "ethtrader"
@@ -79,10 +80,8 @@
         {
             "display_name": "Meme Coins",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1l7v4qs"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
