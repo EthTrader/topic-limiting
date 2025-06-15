@@ -1,22 +1,23 @@
 {
-    "last_update": 1749953103,
+    "last_update": 1749953402,
     "data": [
         {
             "display_name": "EthTrader",
             "limit": 5,
-            "current": 3,
+            "current": 2,
             "submissions": [
                 "https://redd.it/1la0zg6",
-                "https://redd.it/1ladgr2",
-                "https://redd.it/1l8qi5v"
+                "https://redd.it/1ladgr2"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "Airdrops",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1lbp5zp"
+            ],
             "community": "ethtrader"
         },
         {
