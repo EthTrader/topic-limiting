@@ -3,7 +3,7 @@
             "community": "ethtrader",
             "patterns": ["donut", "ethtrader", "governance (poll|proposal)"],
             "display_name": "EthTrader",
-            "limit": 5,
+            "limit": 10,
             "overrides": {
                 "include": [],
                 "ignore": []
