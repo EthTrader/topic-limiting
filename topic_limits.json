@@ -1,5 +1,5 @@
 {
-    "last_update": 1752165004,
+    "last_update": 1752165302,
     "data": [
         {
             "display_name": "EthTrader",
@@ -99,10 +99,9 @@
         {
             "display_name": "Politics",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1lw7urs",
-                "https://redd.it/1luhfyq"
+                "https://redd.it/1lw7urs"
             ],
             "community": "ethtrader"
         },
