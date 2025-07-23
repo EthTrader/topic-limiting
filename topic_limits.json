@@ -1,5 +1,5 @@
 {
-    "last_update": 1753273204,
+    "last_update": 1753273502,
     "data": [
         {
             "display_name": "EthTrader",
@@ -24,9 +24,10 @@
         {
             "display_name": "ETF",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1m7350u"
+                "https://redd.it/1m7350u",
+                "https://redd.it/1m77sue"
             ],
             "community": "ethtrader"
         },
