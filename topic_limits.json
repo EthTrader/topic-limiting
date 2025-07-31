@@ -1,13 +1,12 @@
 {
-    "last_update": 1753964702,
+    "last_update": 1753965003,
     "data": [
         {
             "display_name": "EthTrader",
             "limit": 10,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1mdnlat",
-                "https://redd.it/1mbmczr"
+                "https://redd.it/1mdnlat"
             ],
             "community": "ethtrader"
         },
