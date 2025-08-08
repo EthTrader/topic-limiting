@@ -51,7 +51,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["\\busdt0\\b", "\\busd1\\b", "\\busds\\b", "stable\\s*coin", "tether", "\\busdt\\b", "\\bxaut\\b", "\\beurt\\b", "\\bcnht\\b", "\\bmxnt\\b", "\\bcircle\\b", "\\busdc\\b", "x*dai\\b", "pyusd", "usde", "usdd", "trueusd", "tusd", "usdb", "usdc\\.e", "usdp", "fdusd", "frax", "paxg", "pax gold", "alusd"],
+            "patterns": ["usd1", "usd0", "usdtb", "\\busdt0\\b", "\\busd1\\b", "\\busds\\b", "stable\\s*coin", "tether", "\\busdt\\b", "\\bxaut\\b", "\\beurt\\b", "\\bcnht\\b", "\\bmxnt\\b", "\\bcircle\\b", "\\busdc\\b", "x*dai\\b", "pyusd", "usde", "usdd", "trueusd", "tusd", "usdb", "usdc\\.e", "usdp", "fdusd", "frax", "paxg", "pax gold", "alusd", "usdf"],
             "display_name": "Stables",
             "limit": 2,
             "overrides": {
@@ -101,7 +101,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["wormhole", "layer\\s*zero", "li\\.*fi", "jumper", "bridge", "gravity", "hyperlane", "starkgate", "connext", "stargate", "synapse", "matcha", "hop", "axelar", "router", "mayan", "squid", "owlto", "orbiter", "interport", "rubic", "polyhedra", "symbiosis", "xy\\s*finance"],
+            "patterns": ["layerswap", "wormhole", "layer\\s*zero", "li\\.*fi", "jumper", "bridge", "gravity", "hyperlane", "starkgate", "connext", "stargate", "synapse", "matcha", "hop", "axelar", "router", "mayan", "squid", "owlto", "orbiter", "interport", "rubic", "polyhedra", "symbiosis", "xy\\s*finance"],
             "display_name": "Bridges",
             "limit": 2,
             "overrides": {
