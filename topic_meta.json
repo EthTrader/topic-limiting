@@ -101,7 +101,7 @@
         },
         {
             "community": "ethtrader",
-            "patterns": ["layerswap", "wormhole", "layer\\s*zero", "li\\.*fi", "jumper", "bridge", "gravity", "hyperlane", "starkgate", "connext", "stargate", "synapse", "matcha", "hop", "axelar", "router", "mayan", "squid", "owlto", "orbiter", "interport", "rubic", "polyhedra", "symbiosis", "xy\\s*finance"],
+            "patterns": ["retro bridge", "hash0x", "safeswap", "jumper\\.exchange", "chainspot", "asterizm", "zkbridge", "hashport", "\\bmeson\\b", "allbridge", "debridge", "starkgate", "superbridge", "layerswap", "wormhole", "layer\\s*zero", "li\\.*fi", "jumper", "bridge", "gravity", "hyperlane", "starkgate", "connext", "stargate", "synapse", "matcha", "hop\\.exchange", "axelar", "router protocol", "mayan", "squid", "owlto", "orbiter", "interport", "rubic", "polyhedra", "symbiosis", "xy\\s*finance"],
             "display_name": "Bridges",
             "limit": 2,
             "overrides": {
