@@ -1,5 +1,5 @@
 {
-    "last_update": 1755275703,
+    "last_update": 1755276003,
     "data": [
         {
             "display_name": "EthTrader",
@@ -55,8 +55,9 @@
         {
             "display_name": "Staking/Restaking",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
+                "https://redd.it/1mr30uf",
                 "https://redd.it/1mqufci"
             ],
             "community": "ethtrader"
