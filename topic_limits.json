@@ -1,5 +1,5 @@
 {
-    "last_update": 1755634803,
+    "last_update": 1755635102,
     "data": [
         {
             "display_name": "EthTrader",
@@ -40,8 +40,10 @@
         {
             "display_name": "Chainlink",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1mutvux"
+            ],
             "community": "ethtrader"
         },
         {
