@@ -1,5 +1,5 @@
 {
-    "last_update": 1760469303,
+    "last_update": 1760469603,
     "data": [
         {
             "display_name": "EthTrader",
@@ -99,11 +99,10 @@
         {
             "display_name": "Politics",
             "limit": 2,
-            "current": 3,
+            "current": 2,
             "submissions": [
                 "https://redd.it/1o3442c",
-                "https://redd.it/1o36k30",
-                "https://redd.it/1o2h3j2"
+                "https://redd.it/1o36k30"
             ],
             "community": "ethtrader"
         },
@@ -120,8 +119,10 @@
         {
             "display_name": "Macroeconomics",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1o6osyx"
+            ],
             "community": "ethtrader"
         },
         {
