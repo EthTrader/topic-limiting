@@ -1,5 +1,5 @@
 {
-    "last_update": 1761818103,
+    "last_update": 1761818403,
     "data": [
         {
             "display_name": "EthTrader",
@@ -20,8 +20,10 @@
         {
             "display_name": "ETF",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1ofi8aj"
+            ],
             "community": "ethtrader"
         },
         {
@@ -114,10 +116,8 @@
         {
             "display_name": "Macroeconomics",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1ojo91y"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
