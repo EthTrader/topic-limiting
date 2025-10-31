@@ -1,5 +1,5 @@
 {
-    "last_update": 1761873004,
+    "last_update": 1761873304,
     "data": [
         {
             "display_name": "EthTrader",
@@ -53,8 +53,9 @@
         {
             "display_name": "Staking/Restaking",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
+                "https://redd.it/1ofv5dt",
                 "https://redd.it/1ojermw"
             ],
             "community": "ethtrader"
@@ -149,16 +150,14 @@
         {
             "display_name": "Side Chains/Layer 2's",
             "limit": 8,
-            "current": 8,
+            "current": 6,
             "submissions": [
                 "https://redd.it/1ojpume",
                 "https://redd.it/1ok298t",
                 "https://redd.it/1oix7ku",
                 "https://redd.it/1oitj1l",
                 "https://redd.it/1ohz4ik",
-                "https://redd.it/1ogrg6p",
-                "https://redd.it/1ogy1l6",
-                "https://redd.it/1ogggwk"
+                "https://redd.it/1ogrg6p"
             ],
             "community": "ethtrader"
         },
