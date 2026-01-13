@@ -1,13 +1,14 @@
 {
-    "last_update": 1768323003,
+    "last_update": 1768323903,
     "data": [
         {
             "display_name": "EthTrader",
             "limit": 10,
-            "current": 2,
+            "current": 3,
             "submissions": [
-                "https://redd.it/1pzpagk",
-                "https://redd.it/1pyhb55"
+                "https://redd.it/1qafeg4",
+                "https://redd.it/1q8euid",
+                "https://redd.it/1q62bsp"
             ],
             "community": "ethtrader"
         },
@@ -23,15 +24,18 @@
             "limit": 2,
             "current": 1,
             "submissions": [
-                "https://redd.it/1pxso2p"
+                "https://redd.it/1q72zxa"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "SEC",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 2,
+            "submissions": [
+                "https://redd.it/1qbk8am",
+                "https://redd.it/1q6czzg"
+            ],
             "community": "ethtrader"
         },
         {
@@ -46,8 +50,8 @@
             "limit": 2,
             "current": 2,
             "submissions": [
-                "https://redd.it/1pzlduo",
-                "https://redd.it/1py6xdd"
+                "https://redd.it/1qamv39",
+                "https://redd.it/1q6a8lt"
             ],
             "community": "ethtrader"
         },
@@ -56,16 +60,18 @@
             "limit": 2,
             "current": 2,
             "submissions": [
-                "https://redd.it/1pyrss6",
-                "https://redd.it/1pwwkli"
+                "https://redd.it/1q9qwqz",
+                "https://redd.it/1q76mmo"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "Wallets",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1q89hnd"
+            ],
             "community": "ethtrader"
         },
         {
@@ -92,8 +98,11 @@
         {
             "display_name": "Politics",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 2,
+            "submissions": [
+                "https://redd.it/1q6dw34",
+                "https://redd.it/1q64bse"
+            ],
             "community": "ethtrader"
         },
         {
@@ -101,18 +110,16 @@
             "limit": 2,
             "current": 2,
             "submissions": [
-                "https://redd.it/1pyj2su",
-                "https://redd.it/1pve7p7"
+                "https://redd.it/1qb714l",
+                "https://redd.it/1q8rc0k"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "Macroeconomics",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1q02oln"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
@@ -127,26 +134,31 @@
             "limit": 10,
             "current": 2,
             "submissions": [
-                "https://redd.it/1pz9kyb",
-                "https://redd.it/1pwn036"
+                "https://redd.it/1q84c2p",
+                "https://redd.it/1q7h3uw"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "DeFi",
             "limit": 3,
-            "current": 1,
+            "current": 3,
             "submissions": [
-                "https://redd.it/1pwrl14"
+                "https://redd.it/1qbuu3o",
+                "https://redd.it/1q8ymm2",
+                "https://redd.it/1q7g8a6"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "Side Chains/Layer 2's",
             "limit": 8,
-            "current": 1,
+            "current": 4,
             "submissions": [
-                "https://redd.it/1pz69rm"
+                "https://redd.it/1qarzse",
+                "https://redd.it/1q81snf",
+                "https://redd.it/1q81m53",
+                "https://redd.it/1q5ypz9"
             ],
             "community": "ethtrader"
         },
