@@ -1,5 +1,5 @@
 {
-    "last_update": 1772326806,
+    "last_update": 1772327104,
     "data": [
         {
             "display_name": "EthTrader",
@@ -105,10 +105,9 @@
         {
             "display_name": "Influencers/Celebrities",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1rc6yb2",
-                "https://redd.it/1rajafj"
+                "https://redd.it/1rc6yb2"
             ],
             "community": "ethtrader"
         },
