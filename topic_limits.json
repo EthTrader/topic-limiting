@@ -1,5 +1,5 @@
 {
-    "last_update": 1774606204,
+    "last_update": 1774606503,
     "data": [
         {
             "display_name": "EthTrader",
@@ -18,9 +18,10 @@
         {
             "display_name": "ETF",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1rrsiaa"
+                "https://redd.it/1s0dw9w",
+                "https://redd.it/1rztxei"
             ],
             "community": "ethtrader"
         },
@@ -29,15 +30,17 @@
             "limit": 2,
             "current": 1,
             "submissions": [
-                "https://redd.it/1rqldku"
+                "https://redd.it/1s4rncd"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "Chainlink",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1s4fh8m"
+            ],
             "community": "ethtrader"
         },
         {
@@ -45,8 +48,8 @@
             "limit": 2,
             "current": 2,
             "submissions": [
-                "https://redd.it/1rrj5fv",
-                "https://redd.it/1rmoj7x"
+                "https://redd.it/1s1sxqt",
+                "https://redd.it/1ryxbm3"
             ],
             "community": "ethtrader"
         },
@@ -55,7 +58,7 @@
             "limit": 2,
             "current": 1,
             "submissions": [
-                "https://redd.it/1rpoga8"
+                "https://redd.it/1s3dx07"
             ],
             "community": "ethtrader"
         },
@@ -76,10 +79,8 @@
         {
             "display_name": "NFT",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1rpszsu"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
@@ -92,18 +93,17 @@
         {
             "display_name": "Politics",
             "limit": 2,
-            "current": 0,
-            "submissions": [],
+            "current": 1,
+            "submissions": [
+                "https://redd.it/1s3z687"
+            ],
             "community": "ethtrader"
         },
         {
             "display_name": "Influencers/Celebrities",
             "limit": 2,
-            "current": 2,
-            "submissions": [
-                "https://redd.it/1rp0akt",
-                "https://redd.it/1rn3vtc"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
@@ -111,18 +111,16 @@
             "limit": 2,
             "current": 2,
             "submissions": [
-                "https://redd.it/1rmxm7g",
-                "https://redd.it/1rl7dr2"
+                "https://redd.it/1s3yuor",
+                "https://redd.it/1rzl6oi"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "Regulation",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1rovg4z"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
@@ -130,8 +128,8 @@
             "limit": 10,
             "current": 2,
             "submissions": [
-                "https://redd.it/1rqqihe",
-                "https://redd.it/1rl9vjn"
+                "https://redd.it/1s48xz3",
+                "https://redd.it/1ryrag3"
             ],
             "community": "ethtrader"
         },
@@ -140,7 +138,7 @@
             "limit": 3,
             "current": 1,
             "submissions": [
-                "https://redd.it/1rqo9r4"
+                "https://redd.it/1ryvchg"
             ],
             "community": "ethtrader"
         },
@@ -149,21 +147,20 @@
             "limit": 8,
             "current": 5,
             "submissions": [
-                "https://redd.it/1rse92v",
-                "https://redd.it/1rqiqgr",
-                "https://redd.it/1rq2jni",
-                "https://redd.it/1rm7uml",
-                "https://redd.it/1rl980q"
+                "https://redd.it/1s3yxli",
+                "https://redd.it/1s2jkoi",
+                "https://redd.it/1s245q0",
+                "https://redd.it/1s25jkf",
+                "https://redd.it/1rz0wey"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "Exchanges",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1rp0vog",
-                "https://redd.it/1rnfwyg"
+                "https://redd.it/1s2agn1"
             ],
             "community": "ethtrader"
         }
