@@ -1,5 +1,5 @@
 {
-    "last_update": 1774854903,
+    "last_update": 1774855204,
     "data": [
         {
             "display_name": "EthTrader",
@@ -111,10 +111,9 @@
         {
             "display_name": "Macroeconomics",
             "limit": 2,
-            "current": 2,
+            "current": 1,
             "submissions": [
-                "https://redd.it/1s3yuor",
-                "https://redd.it/1rzl6oi"
+                "https://redd.it/1s3yuor"
             ],
             "community": "ethtrader"
         },
@@ -144,8 +143,9 @@
         {
             "display_name": "Side Chains/Layer 2's",
             "limit": 8,
-            "current": 4,
+            "current": 5,
             "submissions": [
+                "https://redd.it/1s7jlbv",
                 "https://redd.it/1s3yxli",
                 "https://redd.it/1s2jkoi",
                 "https://redd.it/1s245q0",
