@@ -1,14 +1,14 @@
 {
-    "last_update": 1775622303,
+    "last_update": 1775622603,
     "data": [
         {
             "display_name": "EthTrader",
             "limit": 10,
             "current": 3,
             "submissions": [
-                "https://redd.it/1saxzx2",
-                "https://redd.it/1saccpw",
-                "https://redd.it/1s7ba1l"
+                "https://redd.it/1r6cwny",
+                "https://redd.it/1r3ov87",
+                "https://redd.it/1r3a8h8"
             ],
             "community": "ethtrader"
         },
@@ -24,7 +24,7 @@
             "limit": 2,
             "current": 1,
             "submissions": [
-                "https://redd.it/1sefwud"
+                "https://redd.it/1r2mw7i"
             ],
             "community": "ethtrader"
         },
@@ -38,9 +38,10 @@
         {
             "display_name": "Chainlink",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1s8fews"
+                "https://redd.it/1r5z4i7",
+                "https://redd.it/1r0sryd"
             ],
             "community": "ethtrader"
         },
@@ -49,8 +50,8 @@
             "limit": 2,
             "current": 2,
             "submissions": [
-                "https://redd.it/1sfgyfh",
-                "https://redd.it/1saiedn"
+                "https://redd.it/1r6coki",
+                "https://redd.it/1r2rqkf"
             ],
             "community": "ethtrader"
         },
@@ -59,8 +60,8 @@
             "limit": 2,
             "current": 2,
             "submissions": [
-                "https://redd.it/1sc2pe3",
-                "https://redd.it/1s7fna9"
+                "https://redd.it/1r6zivq",
+                "https://redd.it/1r2me4w"
             ],
             "community": "ethtrader"
         },
@@ -74,10 +75,8 @@
         {
             "display_name": "Meme Coins",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1sc27zv"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
@@ -104,19 +103,18 @@
         {
             "display_name": "Influencers/Celebrities",
             "limit": 2,
-            "current": 1,
+            "current": 2,
             "submissions": [
-                "https://redd.it/1s896yz"
+                "https://redd.it/1r1yyqy",
+                "https://redd.it/1r1yvhx"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "Macroeconomics",
             "limit": 2,
-            "current": 1,
-            "submissions": [
-                "https://redd.it/1s7sdro"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         },
         {
@@ -131,9 +129,9 @@
             "limit": 10,
             "current": 3,
             "submissions": [
-                "https://redd.it/1sdsduy",
-                "https://redd.it/1s97smm",
-                "https://redd.it/1s88p5a"
+                "https://redd.it/1r7eh75",
+                "https://redd.it/1r6s1p0",
+                "https://redd.it/1r0o2cd"
             ],
             "community": "ethtrader"
         },
@@ -147,21 +145,20 @@
         {
             "display_name": "Side Chains/Layer 2's",
             "limit": 8,
-            "current": 2,
+            "current": 4,
             "submissions": [
-                "https://redd.it/1scy5ew",
-                "https://redd.it/1s7jlbv"
+                "https://redd.it/1r6nuuh",
+                "https://redd.it/1r3x8pc",
+                "https://redd.it/1r1v6m6",
+                "https://redd.it/1r12doz"
             ],
             "community": "ethtrader"
         },
         {
             "display_name": "Exchanges",
             "limit": 2,
-            "current": 2,
-            "submissions": [
-                "https://redd.it/1sdqjr0",
-                "https://redd.it/1s50xay"
-            ],
+            "current": 0,
+            "submissions": [],
             "community": "ethtrader"
         }
     ]
